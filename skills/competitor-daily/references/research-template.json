@@ -1,0 +1,12 @@
+{
+  "as_of": "2026-10-20",
+  "coverage": [{"competition_id": 1, "result": "verified_event", "urls": ["https://example.org/official-notice"], "note": "TEMPLATE ONLY: replace with actual verification result"}],
+  "events": [{
+    "competition_ids": [1], "edition": "2026", "track": "主赛", "title": "模板：替换为官方赛事通知标题",
+    "registration_start": null, "registration_end": null, "submission_deadline": null,
+    "competition_start": null, "competition_end": null, "participation_mode": "unknown",
+    "mode_details": "", "eligibility": [], "deliverables": [], "milestones": [], "notes": [],
+    "sources": [{"url": "https://example.org/official-notice", "title": "模板：实际已打开的官方通知", "published_date": null}],
+    "evidence": []
+  }]
+}

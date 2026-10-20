@@ -1,0 +1,4 @@
+interface:
+  display_name: "Competitor Daily · 竞赛日报机"
+  short_description: "导入学院竞赛清单，用自己的凭证生成有官方来源的 HTML 与 PDF 日报"
+  default_prompt: "使用 $competitor-daily 导入我学院的竞赛清单，设置大学与学院名称，并生成一份本地竞赛日报。"

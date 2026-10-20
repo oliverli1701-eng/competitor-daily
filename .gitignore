@@ -1,0 +1,15 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+.venv/
+data/
+tmp/
+dist/
+config/catalog.json
+config/catalog-import.txt
+config/profile.json
+config/source_registry.json
+config/runtime.json
+config/track_aliases.json

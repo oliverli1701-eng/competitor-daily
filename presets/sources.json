@@ -1,0 +1,593 @@
+{
+  "美国大学生数学建模竞赛": {
+    "name": "美国大学生数学建模竞赛",
+    "trusted_domains": [
+      "www.contest.comap.org",
+      "www.contest.comap.com",
+      "comap.org"
+    ],
+    "urls": [
+      "https://www.contest.comap.com/undergraduate/contests/mcm/"
+    ],
+    "index_urls": [
+      "https://www.contest.comap.com/undergraduate/contests/mcm/"
+    ]
+  },
+  "中国“互联网+”大学生创新创业大赛": {
+    "name": "中国“互联网+”大学生创新创业大赛",
+    "trusted_domains": [
+      "www.moe.gov.cn"
+    ],
+    "urls": [
+      "https://www.moe.gov.cn/jyb_xwfb/gzdt_gzdt/"
+    ],
+    "index_urls": [
+      "https://www.moe.gov.cn/jyb_xwfb/gzdt_gzdt/"
+    ]
+  },
+  "“挑战杯”全国大学生课外学术科技作品竞赛": {
+    "name": "“挑战杯”全国大学生课外学术科技作品竞赛",
+    "trusted_domains": [
+      "old.tiaozhanbei.net",
+      "www.lit.edu.cn",
+      "5470.ustb.edu.cn"
+    ],
+    "urls": [
+      "https://old.tiaozhanbei.net/"
+    ],
+    "index_urls": [
+      "https://old.tiaozhanbei.net/"
+    ]
+  },
+  "“挑战杯”中国大学生创业计划大赛": {
+    "name": "“挑战杯”中国大学生创业计划大赛",
+    "trusted_domains": [
+      "gaoxiao.tiaozhanbei.net",
+      "old.tiaozhanbei.net"
+    ],
+    "urls": [
+      "https://old.tiaozhanbei.net/"
+    ],
+    "index_urls": [
+      "https://old.tiaozhanbei.net/"
+    ]
+  },
+  "ACM-ICPC国际大学生程序设计竞赛": {
+    "name": "ACM-ICPC国际大学生程序设计竞赛",
+    "trusted_domains": [
+      "icpc.pku.edu.cn"
+    ],
+    "urls": [
+      "https://icpc.pku.edu.cn/"
+    ],
+    "index_urls": [
+      "https://icpc.pku.edu.cn/"
+    ]
+  },
+  "全国大学生数学建模竞赛": {
+    "name": "全国大学生数学建模竞赛",
+    "trusted_domains": [
+      "www.csiam.org.cn",
+      "www.mcm.edu.cn"
+    ],
+    "urls": [
+      "https://www.mcm.edu.cn/"
+    ],
+    "index_urls": [
+      "https://www.mcm.edu.cn/"
+    ]
+  },
+  "全国大学生电子设计竞赛": {
+    "name": "全国大学生电子设计竞赛",
+    "trusted_domains": [
+      "res.nuedc-training.com.cn",
+      "nuedc.sjtu.edu.cn"
+    ],
+    "urls": [],
+    "index_urls": []
+  },
+  "全国大学生电子商务“创新、创意及创业”挑战赛": {
+    "name": "全国大学生电子商务“创新、创意及创业”挑战赛",
+    "trusted_domains": [
+      "www.3chuang.net",
+      "jwb.bnuzh.edu.cn"
+    ],
+    "urls": [
+      "https://www.3chuang.net/"
+    ],
+    "index_urls": [
+      "https://www.3chuang.net/"
+    ]
+  },
+  "全国大学生工程训练综合能力竞赛": {
+    "name": "全国大学生工程训练综合能力竞赛",
+    "trusted_domains": [
+      "jcsysx.shmtu.edu.cn"
+    ],
+    "urls": [],
+    "index_urls": []
+  },
+  "外研社杯全国大学生英语系列赛-英语演讲、英语辩论、英语写作、英语阅读": {
+    "name": "外研社杯全国大学生英语系列赛-英语演讲、英语辩论、英语写作、英语阅读",
+    "trusted_domains": [
+      "ucc.fltrp.com"
+    ],
+    "urls": [
+      "https://ucc.fltrp.com/"
+    ],
+    "index_urls": [
+      "https://ucc.fltrp.com/"
+    ]
+  },
+  "全国大学生机器人大赛-RoboMaster、RoboCon、RoboTac": {
+    "name": "全国大学生机器人大赛-RoboMaster、RoboCon、RoboTac",
+    "trusted_domains": [
+      "www.robocon.org.cn",
+      "www.robomaster.com",
+      "robotac.cn"
+    ],
+    "urls": [
+      "https://robotac.cn/",
+      "https://www.robocon.org.cn/",
+      "https://www.robomaster.com/"
+    ],
+    "index_urls": [
+      "https://www.robocon.org.cn/",
+      "https://www.robomaster.com/"
+    ]
+  },
+  "“西门子杯”中国智能制造挑战赛": {
+    "name": "“西门子杯”中国智能制造挑战赛",
+    "trusted_domains": [
+      "www.siemenscup-cimc.org.cn"
+    ],
+    "urls": [
+      "https://www.siemenscup-cimc.org.cn/"
+    ],
+    "index_urls": [
+      "https://www.siemenscup-cimc.org.cn/"
+    ]
+  },
+  "中国大学生计算机设计大赛": {
+    "name": "中国大学生计算机设计大赛",
+    "trusted_domains": [
+      "jsjds.blcu.edu.cn",
+      "cist.buct.edu.cn"
+    ],
+    "urls": [],
+    "index_urls": []
+  },
+  "中国高校计算机大赛-大数据挑战赛、团体程序设计天梯赛、移动应用创新赛、网络技术挑战赛、人工智能创意赛": {
+    "name": "中国高校计算机大赛-大数据挑战赛、团体程序设计天梯赛、移动应用创新赛、网络技术挑战赛、人工智能创意赛",
+    "trusted_domains": [
+      "developer.huawei.com",
+      "ccst.jlu.edu.cn",
+      "bdrace.tipdm.com"
+    ],
+    "urls": [
+      "https://bdrace.tipdm.com/"
+    ],
+    "index_urls": []
+  },
+  "中国机器人大赛暨RoboCup机器人世界杯中国赛": {
+    "name": "中国机器人大赛暨RoboCup机器人世界杯中国赛",
+    "trusted_domains": [
+      "rcccaa.drct-caa.org.cn"
+    ],
+    "urls": [],
+    "index_urls": []
+  },
+  "全国大学生信息安全竞赛": {
+    "name": "全国大学生信息安全竞赛",
+    "trusted_domains": [
+      "www.ciscn.cn",
+      "due.xjtu.edu.cn"
+    ],
+    "urls": [
+      "https://www.ciscn.cn/"
+    ],
+    "index_urls": [
+      "https://www.ciscn.cn/"
+    ]
+  },
+  "蓝桥杯全国软件和信息技术专业人才大赛": {
+    "name": "蓝桥杯全国软件和信息技术专业人才大赛",
+    "trusted_domains": [
+      "sfzx.yangtzeu.edu.cn",
+      "www.lanqiao.cn",
+      "dasai.lanqiao.cn",
+      "design.lanqiao.cn",
+      "www.lncu.edu.cn",
+      "www.guoxinlanqiao.com",
+      "x-static.lanqiao.cn"
+    ],
+    "urls": [
+      "https://www.lanqiao.cn/",
+      "https://dasai.lanqiao.cn/"
+    ],
+    "index_urls": [
+      "https://dasai.lanqiao.cn/"
+    ]
+  },
+  "“中国软件杯”大学生软件设计大赛": {
+    "name": "“中国软件杯”大学生软件设计大赛",
+    "trusted_domains": [
+      "www.cnsoftbei.com",
+      "www.cuit.edu.cn"
+    ],
+    "urls": [
+      "https://www.cnsoftbei.com/"
+    ],
+    "index_urls": [
+      "https://www.cnsoftbei.com/"
+    ]
+  },
+  "全国大学生集成电路创新创业大赛": {
+    "name": "全国大学生集成电路创新创业大赛",
+    "trusted_domains": [
+      "univ.ciciec.com",
+      "bksy.shu.edu.cn"
+    ],
+    "urls": [
+      "https://univ.ciciec.com/"
+    ],
+    "index_urls": [
+      "https://univ.ciciec.com/"
+    ]
+  },
+  "中国机器人及人工智能大赛": {
+    "name": "中国机器人及人工智能大赛",
+    "trusted_domains": [
+      "www.caairobot.com"
+    ],
+    "urls": [
+      "https://www.caairobot.com/"
+    ],
+    "index_urls": [
+      "https://www.caairobot.com/"
+    ]
+  },
+  "“学创杯”全国大学生创业综合模拟大赛": {
+    "name": "“学创杯”全国大学生创业综合模拟大赛",
+    "trusted_domains": [
+      "sxy.ujn.edu.cn",
+      "sem.ynnu.edu.cn",
+      "due.xjtu.edu.cn"
+    ],
+    "urls": [],
+    "index_urls": []
+  },
+  "“大唐杯”全国大学生移动通信5G技术大赛": {
+    "name": "“大唐杯”全国大学生移动通信5G技术大赛",
+    "trusted_domains": [
+      "dtcup.dtxiaotangren.com",
+      "qihang.hrbeu.edu.cn"
+    ],
+    "urls": [
+      "https://dtcup.dtxiaotangren.com/"
+    ],
+    "index_urls": [
+      "https://dtcup.dtxiaotangren.com/"
+    ]
+  },
+  "RoboCom机器人开发者大赛": {
+    "name": "RoboCom机器人开发者大赛",
+    "trusted_domains": [
+      "www.raicom.com.cn",
+      "cxcyxy.ntu.edu.cn"
+    ],
+    "urls": [
+      "https://www.raicom.com.cn/"
+    ],
+    "index_urls": [
+      "https://www.raicom.com.cn/"
+    ]
+  },
+  "华为ICT大赛": {
+    "name": "华为ICT大赛",
+    "trusted_domains": [
+      "dean.xjtu.edu.cn",
+      "chuangxin.dlut.edu.cn",
+      "www.huawei.com",
+      "weibo.com",
+      "apigw-04.huawei.com",
+      "ccst.jlu.edu.cn"
+    ],
+    "urls": [],
+    "index_urls": []
+  },
+  "ASC世界大学生超算计算机竞赛": {
+    "name": "ASC世界大学生超算计算机竞赛",
+    "trusted_domains": [
+      "www.asc-events.net"
+    ],
+    "urls": [
+      "https://www.asc-events.net/"
+    ],
+    "index_urls": [
+      "https://www.asc-events.net/"
+    ]
+  },
+  "全国大学生嵌入式芯片与系统设计竞赛": {
+    "name": "全国大学生嵌入式芯片与系统设计竞赛",
+    "trusted_domains": [
+      "upload.socchina.net",
+      "wdz.qust.edu.cn"
+    ],
+    "urls": [],
+    "index_urls": []
+  },
+  "中国高校智能机器人创意大赛": {
+    "name": "中国高校智能机器人创意大赛",
+    "trusted_domains": [
+      "www.robotcontest.cn"
+    ],
+    "urls": [
+      "https://www.robotcontest.cn/"
+    ],
+    "index_urls": [
+      "https://www.robotcontest.cn/"
+    ]
+  },
+  "中国大学生服务外包创新创业大赛": {
+    "name": "中国大学生服务外包创新创业大赛",
+    "trusted_domains": [
+      "fwwb.org.cn"
+    ],
+    "urls": [
+      "https://fwwb.org.cn/"
+    ],
+    "index_urls": [
+      "https://fwwb.org.cn/"
+    ]
+  },
+  "全国大学生创新创业训练计划年会展示": {
+    "name": "全国大学生创新创业训练计划年会展示",
+    "trusted_domains": [
+      "www.gjcxcy.cn"
+    ],
+    "urls": [
+      "https://www.gjcxcy.cn/"
+    ],
+    "index_urls": [
+      "https://www.gjcxcy.cn/"
+    ]
+  },
+  "全国大学生节能减排社会实践与科技竞赛": {
+    "name": "全国大学生节能减排社会实践与科技竞赛",
+    "trusted_domains": [
+      "www.jienengjianpai.org"
+    ],
+    "urls": [
+      "https://www.jienengjianpai.org/"
+    ],
+    "index_urls": [
+      "https://www.jienengjianpai.org/"
+    ]
+  },
+  "全国大学生光电设计竞赛": {
+    "name": "全国大学生光电设计竞赛",
+    "trusted_domains": [
+      "oece.usst.edu.cn"
+    ],
+    "urls": [
+      "https://oece.usst.edu.cn/"
+    ],
+    "index_urls": [
+      "https://oece.usst.edu.cn/"
+    ]
+  },
+  "iCAN大学生创新创业大赛": {
+    "name": "iCAN大学生创新创业大赛",
+    "trusted_domains": [
+      "www.g-ican.com",
+      "dxxy.hait.edu.cn",
+      "cxcy.hait.edu.cn",
+      "ican-x.oss-cn-beijing.aliyuncs.com",
+      "api.g-ican.com"
+    ],
+    "urls": [
+      "https://www.g-ican.com/"
+    ],
+    "index_urls": [
+      "https://www.g-ican.com/"
+    ]
+  },
+  "百度之星·程序设计大赛": {
+    "name": "百度之星·程序设计大赛",
+    "trusted_domains": [
+      "www.cuit.edu.cn",
+      "star.baidu.com"
+    ],
+    "urls": [
+      "https://star.baidu.com/#/program-design-match2026?tab=1",
+      "https://star.baidu.com/"
+    ],
+    "index_urls": [
+      "https://star.baidu.com/"
+    ]
+  },
+  "全国大学生计算机系统能力大赛": {
+    "name": "全国大学生计算机系统能力大赛",
+    "trusted_domains": [
+      "pra.xtnl.org.cn"
+    ],
+    "urls": [
+      "https://pra.xtnl.org.cn/"
+    ],
+    "index_urls": [
+      "https://pra.xtnl.org.cn/"
+    ]
+  },
+  "全国大学生物联网设计竞赛": {
+    "name": "全国大学生物联网设计竞赛",
+    "trusted_domains": [
+      "iot.sjtu.edu.cn",
+      "www.shiep.edu.cn"
+    ],
+    "urls": [
+      "https://iot.sjtu.edu.cn/"
+    ],
+    "index_urls": [
+      "https://iot.sjtu.edu.cn/"
+    ]
+  },
+  "全国大学生信息安全与对抗技术竞赛": {
+    "name": "全国大学生信息安全与对抗技术竞赛",
+    "trusted_domains": [
+      "www.isclab.org.cn"
+    ],
+    "urls": [
+      "https://www.isclab.org.cn/"
+    ],
+    "index_urls": [
+      "https://www.isclab.org.cn/"
+    ]
+  },
+  "全国大学生数字媒体科技作品及创意竞赛": {
+    "name": "全国大学生数字媒体科技作品及创意竞赛",
+    "trusted_domains": [
+      "www.cmit.cn",
+      "static.cmit.cn"
+    ],
+    "urls": [
+      "https://www.cmit.cn/"
+    ],
+    "index_urls": [
+      "https://www.cmit.cn/"
+    ]
+  },
+  "全球校园人工智能算法精英大赛": {
+    "name": "全球校园人工智能算法精英大赛",
+    "trusted_domains": [
+      "www.aicomp.cn"
+    ],
+    "urls": [
+      "https://www.aicomp.cn/notice"
+    ],
+    "index_urls": [
+      "https://www.aicomp.cn/notice"
+    ]
+  },
+  "全国大学生数学竞赛": {
+    "name": "全国大学生数学竞赛",
+    "trusted_domains": [
+      "slxy.wzu.edu.cn",
+      "www.cms.org.cn"
+    ],
+    "urls": [
+      "https://www.cms.org.cn/"
+    ],
+    "index_urls": [
+      "https://www.cms.org.cn/"
+    ]
+  },
+  "全国绿色计算大赛": {
+    "name": "全国绿色计算大赛",
+    "trusted_domains": [],
+    "urls": [],
+    "index_urls": []
+  },
+  "全国大学生智能汽车竞赛": {
+    "name": "全国大学生智能汽车竞赛",
+    "trusted_domains": [
+      "www.jwc.ynu.edu.cn"
+    ],
+    "urls": [],
+    "index_urls": []
+  },
+  "博创杯大学生嵌入式设计大赛": {
+    "name": "博创杯大学生嵌入式设计大赛",
+    "trusted_domains": [
+      "www.cie-eec.cn"
+    ],
+    "urls": [],
+    "index_urls": []
+  },
+  "全国大学生智能互联创新大赛": {
+    "name": "全国大学生智能互联创新大赛",
+    "trusted_domains": [
+      "jwc.ntu.edu.cn"
+    ],
+    "urls": [],
+    "index_urls": []
+  },
+  "全国移动互联创新大赛": {
+    "name": "全国移动互联创新大赛",
+    "trusted_domains": [],
+    "urls": [],
+    "index_urls": []
+  },
+  "全国虚拟仪器设计大赛": {
+    "name": "全国虚拟仪器设计大赛",
+    "trusted_domains": [
+      "jwc.cwxu.edu.cn"
+    ],
+    "urls": [],
+    "index_urls": []
+  },
+  "全国高校信息安全铁人三项赛": {
+    "name": "全国高校信息安全铁人三项赛",
+    "trusted_domains": [
+      "ccb.itsec.gov.cn"
+    ],
+    "urls": [
+      "https://ccb.itsec.gov.cn/"
+    ],
+    "index_urls": []
+  },
+  "全国大学生移动通信技术创新大赛": {
+    "name": "全国大学生移动通信技术创新大赛",
+    "trusted_domains": [],
+    "urls": [],
+    "index_urls": []
+  },
+  "全国三维数字化创新设计大赛（大学生组）": {
+    "name": "全国三维数字化创新设计大赛（大学生组）",
+    "trusted_domains": [
+      "3dds.3ddl.net"
+    ],
+    "urls": [
+      "https://3dds.3ddl.net/index.php?ctl=Informationlist&id=750&met=newsdetails",
+      "https://3dds.3ddl.net/index.php?ctl=Informationlist&id=751&met=newsdetails",
+      "https://3dds.3ddl.net/"
+    ],
+    "index_urls": [
+      "https://3dds.3ddl.net/"
+    ]
+  },
+  "全国高校物联网应用创新大赛": {
+    "name": "全国高校物联网应用创新大赛",
+    "trusted_domains": [],
+    "urls": [],
+    "index_urls": []
+  },
+  "网鼎杯网络安全大赛": {
+    "name": "网鼎杯网络安全大赛",
+    "trusted_domains": [
+      "www.wangdingcup.com"
+    ],
+    "urls": [
+      "https://www.wangdingcup.com/"
+    ],
+    "index_urls": [
+      "https://www.wangdingcup.com/"
+    ]
+  },
+  "全国大学生计算机应用能力与信息素养大赛": {
+    "name": "全国大学生计算机应用能力与信息素养大赛",
+    "trusted_domains": [
+      "www.51ds.org.cn",
+      "jwc.xjtu.edu.cn",
+      "cs.dgut.edu.cn",
+      "dw.zjtu.edu.cn",
+      "www.boxuegu.com"
+    ],
+    "urls": [
+      "https://www.51ds.org.cn/"
+    ],
+    "index_urls": [
+      "https://www.51ds.org.cn/"
+    ]
+  }
+}

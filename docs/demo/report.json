@@ -1,0 +1,250 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-20",
+  "as_of": "2026-10-20T08:00:00+08:00",
+  "timezone": "Asia/Shanghai",
+  "bootstrap": true,
+  "acquisition": "offline_demo",
+  "catalog_records": 3,
+  "catalog_unique": 3,
+  "coverage_checked_records": 3,
+  "deadline_window_days": 7,
+  "groups": {
+    "new_registration": [
+      "1:2026:软件创新"
+    ],
+    "updates": [
+      "1:2026:软件创新",
+      "2:2026:数据叙事",
+      "3:2026:智能硬件"
+    ],
+    "deadlines": [
+      "2:2026:数据叙事"
+    ],
+    "ongoing": [
+      "1:2026:软件创新",
+      "2:2026:数据叙事",
+      "3:2026:智能硬件"
+    ]
+  },
+  "events": [
+    {
+      "competition_ids": [
+        1
+      ],
+      "track": "软件创新",
+      "title": "校园创新应用挑战赛报名通知（虚构演示）",
+      "registration_start": "2026-10-20",
+      "registration_end": "2026-11-05",
+      "submission_deadline": "2026-11-12T18:00:00+08:00",
+      "participation_mode": "online",
+      "eligibility": [
+        "本科生、研究生均可参加",
+        "1–3 人组队，允许跨院系"
+      ],
+      "deliverables": [
+        "项目说明书 PDF",
+        "可运行的作品或代码仓库",
+        "3 分钟演示视频"
+      ],
+      "edition": "2026",
+      "notes": [
+        "虚构示例，仅展示产品能力，不是真实赛事通知。",
+        "包含今日发布的官方通知；此标记不表示已完成跨日差异比对。"
+      ],
+      "sources": [
+        {
+          "url": "https://example.org/competitor-daily-demo",
+          "title": "虚构演示来源（不作为真实通知）",
+          "published_date": "2026-10-20"
+        }
+      ],
+      "verified_control_fields": [],
+      "competition_start": null,
+      "competition_end": null,
+      "track_requirements": [],
+      "milestones": [],
+      "mode_details": "",
+      "fees": null,
+      "entry_url": null,
+      "verification": "partial",
+      "key": "1:2026:软件创新",
+      "status": "registration_open",
+      "accepting_registration": true,
+      "deadlines": [],
+      "catalog_names": [
+        "校园创新应用挑战赛（演示）"
+      ],
+      "levels": [
+        "学院 A 类"
+      ],
+      "level_conflict": false,
+      "name_mapping_unconfirmed": false,
+      "change": "baseline"
+    },
+    {
+      "competition_ids": [
+        2
+      ],
+      "track": "数据叙事",
+      "title": "开放数据可视化赛作品提交安排（虚构演示）",
+      "registration_start": "2026-10-01",
+      "registration_end": "2026-10-23T23:59:00+08:00",
+      "submission_deadline": "2026-10-25T18:00:00+08:00",
+      "participation_mode": "online",
+      "eligibility": [
+        "在校学生",
+        "个人或 2 人组队"
+      ],
+      "deliverables": [
+        "交互式可视化 HTML",
+        "数据来源与处理说明",
+        "作品截图 PNG"
+      ],
+      "edition": "2026",
+      "notes": [
+        "虚构示例，仅展示产品能力，不是真实赛事通知。",
+        "包含今日发布的官方通知；此标记不表示已完成跨日差异比对。"
+      ],
+      "sources": [
+        {
+          "url": "https://example.org/competitor-daily-demo",
+          "title": "虚构演示来源（不作为真实通知）",
+          "published_date": "2026-10-20"
+        }
+      ],
+      "verified_control_fields": [],
+      "competition_start": null,
+      "competition_end": null,
+      "track_requirements": [],
+      "milestones": [],
+      "mode_details": "",
+      "fees": null,
+      "entry_url": null,
+      "verification": "partial",
+      "key": "2:2026:数据叙事",
+      "status": "registration_open",
+      "accepting_registration": true,
+      "deadlines": [
+        {
+          "name": "报名截止",
+          "date": "2026-10-23T23:59:00+08:00",
+          "days_left": 3
+        },
+        {
+          "name": "材料/作品提交截止",
+          "date": "2026-10-25T18:00:00+08:00",
+          "days_left": 5
+        }
+      ],
+      "catalog_names": [
+        "开放数据可视化赛（演示）"
+      ],
+      "levels": [
+        "学院 B 类"
+      ],
+      "level_conflict": false,
+      "name_mapping_unconfirmed": false,
+      "change": "baseline"
+    },
+    {
+      "competition_ids": [
+        3
+      ],
+      "track": "智能硬件",
+      "title": "智能系统设计赛线下展示安排（虚构演示）",
+      "registration_start": "2026-09-01",
+      "registration_end": "2026-10-10",
+      "competition_start": "2026-10-18",
+      "competition_end": "2026-11-08",
+      "participation_mode": "hybrid",
+      "mode_details": "线上提交技术文档，入围队伍参加线下展示",
+      "eligibility": [
+        "2–4 人组队",
+        "至少一名成员负责硬件实现"
+      ],
+      "deliverables": [
+        "技术报告 PDF",
+        "原型演示视频",
+        "入围后携带硬件原型"
+      ],
+      "current_phase": "作品开发与线上材料提交",
+      "edition": "2026",
+      "notes": [
+        "虚构示例，仅展示产品能力，不是真实赛事通知。",
+        "包含今日发布的官方通知；此标记不表示已完成跨日差异比对。"
+      ],
+      "sources": [
+        {
+          "url": "https://example.org/competitor-daily-demo",
+          "title": "虚构演示来源（不作为真实通知）",
+          "published_date": "2026-10-20"
+        }
+      ],
+      "verified_control_fields": [],
+      "submission_deadline": null,
+      "track_requirements": [],
+      "milestones": [],
+      "fees": null,
+      "entry_url": null,
+      "verification": "partial",
+      "key": "3:2026:智能硬件",
+      "status": "in_progress",
+      "accepting_registration": false,
+      "deadlines": [],
+      "catalog_names": [
+        "智能系统设计赛（演示）"
+      ],
+      "levels": [
+        "学院 A 类"
+      ],
+      "level_conflict": false,
+      "name_mapping_unconfirmed": false,
+      "change": "baseline"
+    }
+  ],
+  "coverage": [
+    {
+      "competition_id": 1,
+      "result": "verified_event",
+      "urls": [],
+      "note": "虚构演示，未发起网络请求"
+    },
+    {
+      "competition_id": 2,
+      "result": "verified_event",
+      "urls": [],
+      "note": "虚构演示，未发起网络请求"
+    },
+    {
+      "competition_id": 3,
+      "result": "verified_event",
+      "urls": [],
+      "note": "虚构演示，未发起网络请求"
+    }
+  ],
+  "branding": {
+    "schema_version": 1,
+    "university": "示例大学",
+    "college": "计算机与人工智能学院",
+    "report_title": "竞赛日报",
+    "english_title": "COMPETITOR DAILY",
+    "brand_name": "竞赛情报",
+    "subtitle": "学科竞赛追踪",
+    "accent_color": "#1d6652",
+    "website_url": "",
+    "footer_text": "Competitor Daily · 以官方通知为准",
+    "site_url": ""
+  },
+  "demo": true,
+  "partial_scan": false,
+  "run_quality": {
+    "passed": true,
+    "competition_count": 3,
+    "results": {
+      "verified_event": 3
+    }
+  },
+  "pdf_available": true,
+  "presentation_version": "1.0.0"
+}

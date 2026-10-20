@@ -1,0 +1,2771 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-15",
+  "as_of": "2026-10-15T22:43:24.310518+08:00",
+  "timezone": "Asia/Shanghai",
+  "catalog_records": 52,
+  "catalog_unique": 51,
+  "coverage_checked_records": 52,
+  "deadline_window_days": 7,
+  "groups": {
+    "new_registration": [],
+    "updates": [
+      "24:2026-2027:实践赛",
+      "24:2026-2027:挑战赛",
+      "24:2026-2027:创新赛",
+      "24:2026-2027:编程赛",
+      "24:2026-2027:精英赛",
+      "24:2026-2027:算子赛",
+      "24:2026-2027:教学赛",
+      "49:2026:AMD杯AI+3D全国总决赛"
+    ],
+    "deadlines": [
+      "39:2026:全国初赛",
+      "38:2026:算法应用赛道（赛马制）·无人系统等8项赛题"
+    ],
+    "ongoing": [
+      "24:2026-2027:实践赛",
+      "24:2026-2027:挑战赛",
+      "24:2026-2027:创新赛",
+      "24:2026-2027:编程赛",
+      "24:2026-2027:精英赛",
+      "24:2026-2027:算子赛",
+      "24:2026-2027:教学赛",
+      "32:2026:创新赛道",
+      "32:2026:晟功杯应急救援机器人挑战赛",
+      "32:2026:创业赛道",
+      "21:2026:创业综合模拟、数字营销、财务决策",
+      "1:2027:MCM/ICM",
+      "2:2026:现名赛事相关通知（映射待确认）",
+      "10:2026:国际传播综合能力（映射待确认）",
+      "17:2027:软件赛、电子赛、人工智能赛及鸿蒙应用开发专项赛",
+      "17:2027:视觉艺术设计赛、数字科技创新赛",
+      "17:2027:主视觉与赛事 IP 文创设计专项赛",
+      "37:2026:全国主赛",
+      "52:2026:传智杯专业信息技术赛道",
+      "36:2026:密码安全赛",
+      "36:2026:智能安全赛",
+      "38:2026:算法应用赛道（赛马制）·无人系统等8项赛题",
+      "38:2026:算法应用赛道（赛马制）·智能车视觉规划等4项赛题",
+      "38:2026:算法应用赛道（赛马制）·脑电信号特征提取与识别",
+      "38:2026:算法应用赛道（赛马制）·具身智能等3项赛题"
+    ]
+  },
+  "events": [
+    {
+      "competition_ids": [
+        24
+      ],
+      "edition": "2026-2027",
+      "title": "第十一届华为ICT大赛中国赛—实践赛",
+      "track": "实践赛",
+      "registration_start": "2026-08-31",
+      "registration_end": "2026-10-31",
+      "competition_start": "2026-09-18",
+      "competition_end": null,
+      "submission_deadline": null,
+      "participation_mode": "unknown",
+      "mode_details": "官方本轮证据未明确线上/线下",
+      "eligibility": [
+        "3名学生和1名教师，同校组队"
+      ],
+      "deliverables": [],
+      "milestones": [
+        {
+          "name": "省资格赛实验阶段开始",
+          "date": "2026-09-18"
+        },
+        {
+          "name": "省资格赛实验阶段结束",
+          "date": "2026-11-08"
+        },
+        {
+          "name": "省资格赛理论考试开始",
+          "date": "2026-11-14"
+        },
+        {
+          "name": "省资格赛理论考试结束",
+          "date": "2026-11-15"
+        }
+      ],
+      "entry_url": "https://e.huawei.com/cn/talent/ict-academy/#/ict-contest?compId=85132018",
+      "fees": "通知明确大赛不收取费用",
+      "notes": [
+        "省赛2026年11–12月、中国总决赛2027年3月，具体以赛区通知为准。",
+        "包含今日发布的官方通知；此标记不表示已完成跨日差异比对。"
+      ],
+      "sources": [
+        {
+          "url": "https://dean.xjtu.edu.cn/info/1172/10521.htm",
+          "title": "关于组织华为ICT大赛2026-2027报名的通知",
+          "published_date": "2026-10-15",
+          "kind": "university"
+        },
+        {
+          "url": "https://chuangxin.dlut.edu.cn/info/1020/16867.htm",
+          "title": "关于组织参加第十一届华为ICT大赛报名通知",
+          "published_date": "2026-09-11",
+          "kind": "university"
+        }
+      ],
+      "current_phase": "省资格赛实验阶段（2026-09-18至2026-11-08）",
+      "action_summary": "同校3名学生+1名教师，选择网络、云、基础软件之一，10月31日前报名；实验资格赛已开始。",
+      "track_requirements": [],
+      "key": "24:2026-2027:实践赛",
+      "verified_as_of": "2026-10-15T22:43:24.310518+08:00",
+      "content_rechecked_on": "2026-10-16",
+      "status": "registration_open",
+      "accepting_registration": true,
+      "deadlines": [],
+      "catalog_names": [
+        "华为ICT大赛"
+      ],
+      "levels": [
+        "A类"
+      ],
+      "level_conflict": false,
+      "name_mapping_unconfirmed": false
+    },
+    {
+      "competition_ids": [
+        24
+      ],
+      "edition": "2026-2027",
+      "title": "第十一届华为ICT大赛中国赛—挑战赛",
+      "track": "挑战赛",
+      "registration_start": "2026-08-31",
+      "registration_end": "2026-10-31",
+      "competition_start": null,
+      "competition_end": null,
+      "submission_deadline": null,
+      "participation_mode": "unknown",
+      "mode_details": "官方本轮证据未明确线上/线下",
+      "eligibility": [
+        "不超过5名学生和1名教师，同校组队"
+      ],
+      "deliverables": [],
+      "milestones": [],
+      "entry_url": "https://e.huawei.com/cn/talent/ict-academy/#/ict-contest?compId=85132018",
+      "fees": "通知明确大赛不收取费用",
+      "notes": [
+        "初赛拟2027年2月、中国总决赛拟2027年4月。",
+        "包含今日发布的官方通知；此标记不表示已完成跨日差异比对。"
+      ],
+      "sources": [
+        {
+          "url": "https://dean.xjtu.edu.cn/info/1172/10521.htm",
+          "title": "关于组织华为ICT大赛2026-2027报名的通知",
+          "published_date": "2026-10-15",
+          "kind": "university"
+        }
+      ],
+      "action_summary": "同校最多5名学生+1名教师，10月31日前报名；围绕昇腾+鲲鹏进行AI与高性能计算调优。",
+      "track_requirements": [],
+      "key": "24:2026-2027:挑战赛",
+      "verified_as_of": "2026-10-15T22:43:24.310518+08:00",
+      "content_rechecked_on": "2026-10-16",
+      "status": "registration_open",
+      "accepting_registration": true,
+      "deadlines": [],
+      "catalog_names": [
+        "华为ICT大赛"
+      ],
+      "levels": [
+        "A类"
+      ],
+      "level_conflict": false,
+      "name_mapping_unconfirmed": false
+    },
+    {
+      "competition_ids": [
+        24
+      ],
+      "edition": "2026-2027",
+      "title": "第十一届华为ICT大赛中国赛—创新赛",
+      "track": "创新赛",
+      "registration_start": "2026-08-31",
+      "registration_end": "2026-11-30",
+      "competition_start": null,
+      "competition_end": null,
+      "submission_deadline": null,
+      "participation_mode": "hybrid",
+      "mode_details": "初赛提交材料；中国总决赛线上答辩（15分钟展示+5分钟问答）；赛题1、2晋级后的全球总决赛现场答辩，赛题3止于中国总决赛。",
+      "eligibility": [
+        "高校在校本科、硕士及博士生；同校3名学生+1名指导教师",
+        "实践、编程、创新、挑战赛报名互斥；须采用所选赛题要求的华为技术"
+      ],
+      "deliverables": [
+        "初赛赛题1/2：官方模板《作品信息收集表》Word，附作品介绍、设计文件或演示视频；赛题2材料须呈现AgentArts构建运行Demo",
+        "初赛赛题3：开发设计Word（概述、架构、知识图谱、智能体、数据处理），附Agent配置及JSON、知识库、MCP文件说明",
+        "中国总决赛：答辩PPT；赛题1补Demo地址、完整代码、数据集、复现README及开源截图；赛题2补Agent设计说明与社区分享截图；赛题3补评测文档及智能体配置"
+      ],
+      "milestones": [],
+      "entry_url": "https://e.huawei.com/cn/talent/ict-academy/#/ict-contest?compId=85132018",
+      "fees": "通知明确大赛不收取费用",
+      "notes": [
+        "三道赛题任选一题：华为云AI应用、AgentArts智能体、ModelEngine Nexent智能体。",
+        "报名至11月30日；初赛2026年12月、中国总决赛2027年3月，赛题1/2全球总决赛2027年5月。",
+        "包含今日发布的官方通知；此标记不表示已完成跨日差异比对。"
+      ],
+      "sources": [
+        {
+          "url": "https://dean.xjtu.edu.cn/info/1172/10521.htm",
+          "title": "关于组织华为ICT大赛2026-2027报名的通知",
+          "published_date": "2026-10-15",
+          "kind": "university"
+        },
+        {
+          "url": "https://apigw-04.huawei.com/api/services/lras/cams/v1/comps/queryHtmlContext?zoneId=98269700&X-HW-ID=com.huawei.prm.talent&env=&language=zh_CN",
+          "title": "第十一届华为ICT大赛创新赛中国区官方规则（公开页面内容接口）",
+          "published_date": "2026-10-15",
+          "kind": "organizer"
+        }
+      ],
+      "action_summary": "同校3人组队，11月30日前选定1道赛题报名；先按官方Word模板准备作品材料，国赛再交PPT和可复现Demo。",
+      "track_requirements": [],
+      "key": "24:2026-2027:创新赛",
+      "verified_as_of": "2026-10-15T22:43:24.310518+08:00",
+      "content_rechecked_on": "2026-10-16",
+      "status": "registration_open",
+      "accepting_registration": true,
+      "deadlines": [],
+      "catalog_names": [
+        "华为ICT大赛"
+      ],
+      "levels": [
+        "A类"
+      ],
+      "level_conflict": false,
+      "name_mapping_unconfirmed": false
+    },
+    {
+      "competition_ids": [
+        24
+      ],
+      "edition": "2026-2027",
+      "title": "第十一届华为ICT大赛中国赛—编程赛",
+      "track": "编程赛",
+      "registration_start": "2026-08-31",
+      "registration_end": "2026-11-30",
+      "competition_start": null,
+      "competition_end": null,
+      "submission_deadline": null,
+      "participation_mode": "unknown",
+      "mode_details": "官方本轮证据未明确线上/线下",
+      "eligibility": [
+        "3名学生和1名教师，同校组队"
+      ],
+      "deliverables": [],
+      "milestones": [],
+      "entry_url": "https://e.huawei.com/cn/talent/ict-academy/#/ict-contest?compId=85132018",
+      "fees": "通知明确大赛不收取费用",
+      "notes": [
+        "仓颉编程赛道；初赛拟2026年12月，中国总决赛拟2027年3月。",
+        "包含今日发布的官方通知；此标记不表示已完成跨日差异比对。"
+      ],
+      "sources": [
+        {
+          "url": "https://dean.xjtu.edu.cn/info/1172/10521.htm",
+          "title": "关于组织华为ICT大赛2026-2027报名的通知",
+          "published_date": "2026-10-15",
+          "kind": "university"
+        },
+        {
+          "url": "https://ccst.jlu.edu.cn/info/1056/21228.htm",
+          "title": "2026-2027华为ICT大赛吉林大学报名通知",
+          "published_date": "2026-10-15",
+          "kind": "university"
+        }
+      ],
+      "action_summary": "同校3名学生+1名教师，11月30日前报名，准备仓颉语言基础、算法和综合应用。",
+      "track_requirements": [],
+      "key": "24:2026-2027:编程赛",
+      "verified_as_of": "2026-10-15T22:43:24.310518+08:00",
+      "content_rechecked_on": "2026-10-16",
+      "status": "registration_open",
+      "accepting_registration": true,
+      "deadlines": [],
+      "catalog_names": [
+        "华为ICT大赛"
+      ],
+      "levels": [
+        "A类"
+      ],
+      "level_conflict": false,
+      "name_mapping_unconfirmed": false
+    },
+    {
+      "competition_ids": [
+        24
+      ],
+      "edition": "2026-2027",
+      "title": "第十一届华为ICT大赛中国赛—精英赛",
+      "track": "精英赛",
+      "registration_start": "2026-08-31",
+      "registration_end": "2026-11-30",
+      "competition_start": null,
+      "competition_end": null,
+      "submission_deadline": null,
+      "participation_mode": "unknown",
+      "mode_details": "官方本轮证据未明确线上/线下",
+      "eligibility": [
+        "全日制本科及以上在读学生，以2028届为主；个人报名后同校4名学生和1名教师组队"
+      ],
+      "deliverables": [
+        "投标文件和商业方案"
+      ],
+      "milestones": [],
+      "entry_url": "https://e.huawei.com/cn/talent/ict-academy/#/ict-contest?compId=85132018",
+      "fees": "通知明确大赛不收取费用",
+      "notes": [
+        "初赛拟2026年12月，中国总决赛拟2027年4月。",
+        "包含今日发布的官方通知；此标记不表示已完成跨日差异比对。"
+      ],
+      "sources": [
+        {
+          "url": "https://dean.xjtu.edu.cn/info/1172/10521.htm",
+          "title": "关于组织华为ICT大赛2026-2027报名的通知",
+          "published_date": "2026-10-15",
+          "kind": "university"
+        }
+      ],
+      "action_summary": "个人报名后同校4名学生+1名教师组队，11月30日截止；准备投标文件、商业方案及模拟谈判。",
+      "track_requirements": [],
+      "key": "24:2026-2027:精英赛",
+      "verified_as_of": "2026-10-15T22:43:24.310518+08:00",
+      "content_rechecked_on": "2026-10-16",
+      "status": "registration_open",
+      "accepting_registration": true,
+      "deadlines": [],
+      "catalog_names": [
+        "华为ICT大赛"
+      ],
+      "levels": [
+        "A类"
+      ],
+      "level_conflict": false,
+      "name_mapping_unconfirmed": false
+    },
+    {
+      "competition_ids": [
+        24
+      ],
+      "edition": "2026-2027",
+      "title": "第十一届华为ICT大赛中国赛—算子赛",
+      "track": "算子赛",
+      "registration_start": "2026-07-24",
+      "registration_end": "2026-10-26",
+      "competition_start": null,
+      "competition_end": null,
+      "submission_deadline": null,
+      "participation_mode": "unknown",
+      "mode_details": "官方本轮证据未明确线上/线下",
+      "eligibility": [
+        "中国赛区高校选手；主办方公告明确报名通道面向全体高校开放"
+      ],
+      "deliverables": [
+        "两项算子开发相关认证"
+      ],
+      "milestones": [],
+      "entry_url": "https://e.huawei.com/cn/talent/ict-academy/#/ict-contest?compId=85132018",
+      "fees": "通知明确大赛不收取费用",
+      "notes": [
+        "资格赛截止10月26日；决赛2026年11月–2027年3月，全球总决赛拟2027年5月。",
+        "算子赛与其他赛道报名不互斥。",
+        "包含今日发布的官方通知；此标记不表示已完成跨日差异比对。"
+      ],
+      "sources": [
+        {
+          "url": "https://dean.xjtu.edu.cn/info/1172/10521.htm",
+          "title": "关于组织华为ICT大赛2026-2027报名的通知",
+          "published_date": "2026-10-15",
+          "kind": "university"
+        },
+        {
+          "url": "https://weibo.com/ttarticle/p/show?id=2309405329016491213390",
+          "title": "ICT大赛昇腾AI算子开发赛道，中国赛区首发，等你来战！（华为中国官方账号）",
+          "published_date": "2026-08-06",
+          "kind": "organizer"
+        }
+      ],
+      "action_summary": "10月26日前完成报名及两项算子开发认证；训练Ascend C算子实现、精度调试和性能优化。",
+      "track_requirements": [],
+      "key": "24:2026-2027:算子赛",
+      "verified_as_of": "2026-10-15T22:43:24.310518+08:00",
+      "content_rechecked_on": "2026-10-16",
+      "status": "registration_open",
+      "accepting_registration": true,
+      "deadlines": [],
+      "catalog_names": [
+        "华为ICT大赛"
+      ],
+      "levels": [
+        "A类"
+      ],
+      "level_conflict": false,
+      "name_mapping_unconfirmed": false
+    },
+    {
+      "competition_ids": [
+        24
+      ],
+      "edition": "2026-2027",
+      "title": "第十一届华为ICT大赛中国赛—教学赛",
+      "track": "教学赛",
+      "registration_start": "2026-08-31",
+      "registration_end": "2026-11-30",
+      "competition_start": null,
+      "competition_end": null,
+      "submission_deadline": null,
+      "participation_mode": "unknown",
+      "mode_details": "官方本轮证据未明确线上/线下",
+      "eligibility": [
+        "本科层次院校教师，个人或不超过3人的团队"
+      ],
+      "deliverables": [],
+      "milestones": [],
+      "entry_url": "https://e.huawei.com/cn/talent/ict-academy/#/ict-contest?compId=85132018",
+      "fees": "通知明确大赛不收取费用",
+      "notes": [
+        "初赛拟2026年12月；复赛拟2027年1月；中国总决赛拟2027年4月。",
+        "包含今日发布的官方通知；此标记不表示已完成跨日差异比对。"
+      ],
+      "sources": [
+        {
+          "url": "https://dean.xjtu.edu.cn/info/1172/10521.htm",
+          "title": "关于组织华为ICT大赛2026-2027报名的通知",
+          "published_date": "2026-10-15",
+          "kind": "university"
+        }
+      ],
+      "action_summary": "本科院校教师个人或最多3人组队，11月30日前报名，开发基于华为技术/产品的教学内容。",
+      "track_requirements": [],
+      "key": "24:2026-2027:教学赛",
+      "verified_as_of": "2026-10-15T22:43:24.310518+08:00",
+      "content_rechecked_on": "2026-10-16",
+      "status": "registration_open",
+      "accepting_registration": true,
+      "deadlines": [],
+      "catalog_names": [
+        "华为ICT大赛"
+      ],
+      "levels": [
+        "A类"
+      ],
+      "level_conflict": false,
+      "name_mapping_unconfirmed": false
+    },
+    {
+      "competition_ids": [
+        29
+      ],
+      "edition": "第十九届（2026）",
+      "title": "第十九届全国大学生创新年会—项目推荐",
+      "track": "国创计划年会展示",
+      "registration_start": null,
+      "registration_end": null,
+      "competition_start": null,
+      "competition_end": null,
+      "submission_deadline": "2026-10-23",
+      "participation_mode": "unknown",
+      "mode_details": "官方本轮证据未明确线上/线下",
+      "eligibility": [
+        "“国创计划”创新训练、创业训练、创业实践项目，经高校或地方教育主管部门遴选推荐",
+        "往届已参会项目不再推荐"
+      ],
+      "deliverables": [
+        "推荐项目材料：学术论文、改革成果展示项目或创业推介项目"
+      ],
+      "milestones": [
+        {
+          "name": "中央部委所属高校网上填报截止",
+          "date": "2026-10-23"
+        },
+        {
+          "name": "地方教育行政部门网上填报截止",
+          "date": "2026-10-30"
+        }
+      ],
+      "entry_url": "http://gjcxcy.bjtu.edu.cn/",
+      "fees": null,
+      "notes": [
+        "拟2026年12月由西南交通大学举办，具体日期与参会安排另行通知。",
+        "不是个人自由报名。表中截止日为单位推荐填报截止，校内遴选通常更早，需联系本校。",
+        "原表名称为“全国大学生创新创业训练计划年会展示”，本条依据国创计划官方年会通知关联，最终认定以学院为准。"
+      ],
+      "sources": [
+        {
+          "url": "https://www.gjcxcy.cn/PublicColumn/Notice/ea09170e-3609-4ca3-9b9d-aaa79fc04d68",
+          "title": "教育部高等教育司关于做好第十九届全国大学生创新年会准备工作的通知",
+          "published_date": "2026-09-22",
+          "kind": "organizer"
+        }
+      ],
+      "track_requirements": [],
+      "key": "29:2026:国创计划年会展示",
+      "verified_as_of": "2026-10-15T22:43:24.310518+08:00",
+      "content_rechecked_on": "2026-10-16",
+      "status": "unknown",
+      "accepting_registration": false,
+      "deadlines": [],
+      "catalog_names": [
+        "全国大学生创新创业训练计划年会展示"
+      ],
+      "levels": [
+        "A类"
+      ],
+      "level_conflict": false,
+      "name_mapping_unconfirmed": true
+    },
+    {
+      "competition_ids": [
+        32
+      ],
+      "edition": "第二十届（2026）",
+      "title": "第二十届iCAN大学生创新创业大赛—创新赛道",
+      "track": "创新赛道",
+      "registration_start": "2026-04-01",
+      "registration_end": "2026-08-31",
+      "competition_start": "2026-09-19",
+      "competition_end": null,
+      "submission_deadline": "2026-08-31",
+      "participation_mode": "unknown",
+      "mode_details": "官方本轮证据未明确线上/线下",
+      "eligibility": [
+        "高校及科研院所在校专科、本科、硕士和博士生；每队2–5人，指导教师不超过2人",
+        "禁止跨赛区组队；创新与创业赛道不可重复参赛，往届国赛一、二等奖作品不可重复参赛"
+      ],
+      "deliverables": [
+        "近两年完成的产品实物、说明PPT和实物演示视频",
+        "开发日志等原创证明；AI辅助材料须标识",
+        "盲审材料不能出现院校、指导教师及单位名称"
+      ],
+      "milestones": [
+        {
+          "name": "区域赛开始",
+          "date": "2026-09-19"
+        },
+        {
+          "name": "区域赛结束",
+          "date": "2026-10-25"
+        }
+      ],
+      "entry_url": "https://www.g-ican.com/",
+      "fees": null,
+      "notes": [
+        "报名已截止；区域赛9月19日至10月25日，全国总决赛拟11月中下旬现场评审。",
+        "产品实物须在现场比赛携带参与评审，具体区域赛形式以本赛区通知为准。"
+      ],
+      "sources": [
+        {
+          "url": "https://www.g-ican.com/news/details?id=234",
+          "title": "关于举办2026年第二十届iCAN大学生创新创业大赛的通知",
+          "published_date": "2026-07-28",
+          "kind": "organizer"
+        }
+      ],
+      "current_phase": "区域赛（2026-09-19至2026-10-25）",
+      "track_requirements": [],
+      "key": "32:2026:创新赛道",
+      "verified_as_of": "2026-10-15T22:43:24.310518+08:00",
+      "content_rechecked_on": "2026-10-16",
+      "status": "in_progress",
+      "accepting_registration": false,
+      "deadlines": [],
+      "catalog_names": [
+        "iCAN大学生创新创业大赛"
+      ],
+      "levels": [
+        "A类"
+      ],
+      "level_conflict": false,
+      "name_mapping_unconfirmed": false,
+      "phase_period": {
+        "start": "2026-09",
+        "end": "2026-10"
+      }
+    },
+    {
+      "competition_ids": [
+        32
+      ],
+      "edition": "2026",
+      "title": "2026年iCAN大学生创新创业大赛“晟功杯”应急救援机器人挑战赛",
+      "track": "晟功杯应急救援机器人挑战赛",
+      "registration_start": null,
+      "registration_end": "2026-10-23",
+      "competition_start": null,
+      "competition_end": null,
+      "submission_deadline": null,
+      "participation_mode": "hybrid",
+      "mode_details": "10月复赛线上仿真评审；11月国赛先线上初评，再进行线下总决赛实物比赛。",
+      "eligibility": [
+        "全国高校及科研院所在校专科、本科、硕士、博士生；每队2–5名学生、指导教师不超过2人",
+        "每人限1队；每校参赛队数不限，但原则上最多30队晋级复赛，超过须校选",
+        "城市全域巡检、应急物资投送、陆地障碍清除三个任务任选其一"
+      ],
+      "deliverables": [
+        "在合作方提供的ROS+Gazebo仿真环境完成任务，将代码上传指定仿真平台",
+        "提交效果演示视频，体现机器人自主识别等任务完成情况",
+        "提交技术文档，说明整体方案设计思路和实现步骤；线下总决赛以实物机器人完成任务"
+      ],
+      "milestones": [],
+      "entry_url": "https://www.g-ican.com/news/details?id=253",
+      "fees": null,
+      "notes": [
+        "报名官网截止10月23日；复赛10月、全国总决赛11月，具体比赛日以组委会后续通知为准。",
+        "全国总决赛的ROSBOT-A1/G1为推荐平台，不能误写为强制购买要求。"
+      ],
+      "sources": [
+        {
+          "url": "https://www.g-ican.com/news/details?id=253",
+          "title": "关于举办2026年iCAN大学生创新创业大赛“晟功杯”应急救援机器人挑战赛的通知",
+          "published_date": "2026-07-24",
+          "kind": "organizer"
+        },
+        {
+          "url": "https://ican-x.oss-cn-beijing.aliyuncs.com/files/26f138e5-b6b9-43e9-88d7-64b7069e964a.pdf",
+          "title": "官方附件：赛题要求和比赛规则",
+          "published_date": null,
+          "kind": "organizer"
+        },
+        {
+          "url": "https://ican-x.oss-cn-beijing.aliyuncs.com/files/5183c71c-ed03-4d54-9be2-90ed34fe72ad.pdf",
+          "title": "组委会发19：关于举办2026年iCAN“晟功杯”应急救援机器人挑战赛的全国通知",
+          "published_date": "2026-05-18",
+          "kind": "organizer"
+        }
+      ],
+      "action_summary": "2–5人组队，10月23日前官网报名；复赛提交ROS/Gazebo代码、演示视频和技术文档，晋级后准备线下机器人任务赛。",
+      "track_requirements": [],
+      "key": "32:2026:晟功杯应急救援机器人挑战赛",
+      "verified_as_of": "2026-10-15T22:43:24.310518+08:00",
+      "content_rechecked_on": "2026-10-16",
+      "status": "registration_open",
+      "accepting_registration": true,
+      "deadlines": [],
+      "catalog_names": [
+        "iCAN大学生创新创业大赛"
+      ],
+      "levels": [
+        "A类"
+      ],
+      "level_conflict": false,
+      "name_mapping_unconfirmed": false
+    },
+    {
+      "competition_ids": [
+        32
+      ],
+      "edition": "第二十届（2026）",
+      "title": "第二十届iCAN大学生创新创业大赛—创业赛道",
+      "track": "创业赛道",
+      "registration_start": "2026-04-01",
+      "registration_end": "2026-08-31",
+      "competition_start": null,
+      "competition_end": null,
+      "submission_deadline": "2026-08-31",
+      "participation_mode": "unknown",
+      "mode_details": "官方本轮证据未明确线上/线下",
+      "eligibility": [
+        "高校、科研院所在校生或毕业五年内学生；每队2–5人，指导教师不超过2人",
+        "须用自主创新项目注册公司；队长为创始人或持股不低于10%的核心成员",
+        "禁止跨赛区组队；创新、创业不可重复参赛"
+      ],
+      "deliverables": [
+        "近两年完成的产品实物、商业计划书PPT、实物演示视频及证明材料"
+      ],
+      "milestones": [],
+      "entry_url": "https://www.g-ican.com/",
+      "fees": null,
+      "notes": [
+        "报名已截止；9–10月复赛，全国总决赛拟11月中下旬现场评审。"
+      ],
+      "sources": [
+        {
+          "url": "https://www.g-ican.com/news/details?id=234",
+          "title": "关于举办2026年第二十届iCAN大学生创新创业大赛的通知",
+          "published_date": "2026-07-28",
+          "kind": "organizer"
+        }
+      ],
+      "current_phase": "复赛（2026年9–10月）",
+      "track_requirements": [],
+      "key": "32:2026:创业赛道",
+      "verified_as_of": "2026-10-15T22:43:24.310518+08:00",
+      "content_rechecked_on": "2026-10-16",
+      "status": "in_progress",
+      "accepting_registration": false,
+      "deadlines": [],
+      "catalog_names": [
+        "iCAN大学生创新创业大赛"
+      ],
+      "levels": [
+        "A类"
+      ],
+      "level_conflict": false,
+      "name_mapping_unconfirmed": false,
+      "phase_period": {
+        "start": "2026-09",
+        "end": "2026-10"
+      }
+    },
+    {
+      "competition_ids": [
+        21
+      ],
+      "edition": "第十三届（2026）",
+      "title": "第十三届“学创杯”全国大学生创业综合模拟演训活动",
+      "track": "创业综合模拟、数字营销、财务决策",
+      "registration_start": null,
+      "registration_end": null,
+      "competition_start": null,
+      "competition_end": null,
+      "submission_deadline": null,
+      "participation_mode": "hybrid",
+      "mode_details": "全国半决选在线、总决选现场；省级形式以赛区通知为准。",
+      "eligibility": [
+        "全日制在校学生，研究生、本科、职教分组",
+        "同校3名队员，每人限1项活动1支队伍，指导教师1–2名"
+      ],
+      "deliverables": [
+        "软件模拟对抗及策略方案评审；具体提交格式以赛项通知为准"
+      ],
+      "milestones": [],
+      "entry_url": "http://www.xcbds.com/",
+      "fees": null,
+      "notes": [
+        "全国阶段拟2026年11月，具体日期未核实。",
+        "济南大学通知中的3月23日截止只适用其校选，不能作为全国报名截止。",
+        "10月10日云南师范大学消息确认当届省赛完成并有团队晋级全国半决赛；不据此认定任何地区仍开放报名。",
+        "原表名称为“全国大学生创业综合模拟大赛”，当届通知名称为“创业综合模拟演训活动”，学院认定需以原规定为准。"
+      ],
+      "sources": [
+        {
+          "url": "https://sxy.ujn.edu.cn/info/1149/27330.htm",
+          "title": "关于举办济南大学第十三届“学创杯”全国大学生创业综合模拟演训活动校级选拔赛的通知",
+          "published_date": "2026-01-06",
+          "kind": "university"
+        },
+        {
+          "url": "https://sem.ynnu.edu.cn/info/1074/4680.htm",
+          "title": "喜报！我院学子在第十三届“学创杯”云南省选拔赛中斩获佳绩 成功晋级国赛半决赛",
+          "published_date": "2026-10-10",
+          "kind": "university"
+        }
+      ],
+      "current_phase": "省级选拔阶段（2026年8–10月）",
+      "track_requirements": [],
+      "key": "21:2026:创业综合模拟、数字营销、财务决策",
+      "verified_as_of": "2026-10-15T22:43:24.310518+08:00",
+      "content_rechecked_on": "2026-10-16",
+      "status": "in_progress",
+      "accepting_registration": false,
+      "deadlines": [],
+      "catalog_names": [
+        "“学创杯”全国大学生创业综合模拟大赛"
+      ],
+      "levels": [
+        "A类"
+      ],
+      "level_conflict": false,
+      "name_mapping_unconfirmed": true,
+      "phase_period": {
+        "start": "2026-08",
+        "end": "2026-10"
+      }
+    },
+    {
+      "competition_ids": [
+        1
+      ],
+      "edition": "2027",
+      "title": "美国大学生数学建模竞赛（2027 MCM/ICM）",
+      "track": "MCM/ICM",
+      "registration_start": null,
+      "registration_end": "2027-01-29T04:00:00+08:00",
+      "competition_start": "2027-01-29T06:00:00+08:00",
+      "competition_end": "2027-02-02T09:00:00+08:00",
+      "submission_deadline": "2027-02-02T10:00:00+08:00",
+      "participation_mode": "online",
+      "mode_details": "网上报名、网上发布题目并在线提交 PDF；队伍自主完成建模报告。",
+      "eligibility": [
+        "每队 1—3 名同一学校在读本科生或更低学段学生（可全日制或非全日制），每人限一队。",
+        "须有一名本校教职员或学生担任 Advisor，由 Advisor 注册队伍。",
+        "不限专业；研究生及已经取得学士或更高学位者不能参赛，队员不可跨校。"
+      ],
+      "deliverables": [
+        "一份英文 PDF 解题报告：摘要页在首页，正文及参考文献/附录合计最多 25 页，文件小于 25 MB，以队伍 Control Number 命名。",
+        "使用 AI 时须引用并附 Report on Use of AI；此报告不计入 25 页。",
+        "提交时填写队伍 Control Number、Advisor ID 和题号；不额外提交程序、数据库等文件。",
+        "报名分Advisor注册与Team注册：准备Advisor有效邮箱/联系信息和付款资料，由Advisor网上注册队伍；每队100美元，可在开赛前补齐队员姓名。",
+        "提交入口：https://forms.comap.org/241335097294056；需Control Number、Advisor ID及题号，任何队员或Advisor可提交；每队从A—F中选一道题。"
+      ],
+      "milestones": [],
+      "entry_url": "https://www.contest.comap.com/undergraduate/contests/mcm/register.php",
+      "fees": "100 美元/队；官网信用卡支付。",
+      "notes": [
+        "截至核验日官网明确报名已开放；COMAP 公告仅标注 October 2026，无精确开放日期。",
+        "所有时间已从官方美国东部标准时间 EST（UTC−5）换算成北京时间（UTC+8）。原报名截止为 2027-01-28 15:00 EST。"
+      ],
+      "sources": [
+        {
+          "url": "https://www.contest.comap.org/undergraduate/contests/mcm/",
+          "title": "COMAP MCM/ICM 2027 官网",
+          "published_date": null,
+          "kind": "organizer"
+        },
+        {
+          "url": "https://www.contest.comap.org/undergraduate/contests/mcm/instructions.php",
+          "title": "2027 MCM/ICM Contest Rules, Registration and Instructions",
+          "published_date": null,
+          "kind": "organizer"
+        },
+        {
+          "url": "https://www.contest.comap.com/undergraduate/contests/mcm/register.php",
+          "title": "MCM/ICM Advisor and Team Registration",
+          "published_date": null,
+          "kind": "organizer"
+        },
+        {
+          "url": "https://www.contest.comap.com/undergraduate/contests/mcm/faq.php",
+          "title": "2027 MCM/ICM Frequently Asked Questions",
+          "published_date": null,
+          "kind": "organizer"
+        }
+      ],
+      "action_summary": "组1—3人同校本科生队伍，找本校Advisor注册并支付100美元取得Control Number；按北京时间2027年1月29日06:00开题，2月2日10:00前在线交英文PDF。",
+      "track_requirements": [],
+      "key": "1:2027:MCM/ICM",
+      "verified_as_of": "2026-10-15T22:43:24.310518+08:00",
+      "content_rechecked_on": "2026-10-16",
+      "status": "registration_open",
+      "accepting_registration": true,
+      "deadlines": [],
+      "catalog_names": [
+        "美国大学生数学建模竞赛"
+      ],
+      "levels": [
+        "A类"
+      ],
+      "level_conflict": false,
+      "name_mapping_unconfirmed": false,
+      "submission_format": "仅交一个英文PDF，<25MB，以Control Number命名；摘要首页，解题报告含引用/附录≤25页、可读字体≥12磅，各页标队号与页码；不写姓名/学校，不另附程序或数据库。用AI时附独立AI使用报告，不计25页。"
+    },
+    {
+      "competition_ids": [
+        2
+      ],
+      "edition": "2026",
+      "title": "中国“互联网+”大学生创新创业大赛（相关现名通知：中国国际大学生创新大赛 2026，映射待确认）",
+      "track": "现名赛事相关通知（映射待确认）",
+      "registration_start": "2026-08-10",
+      "registration_end": "2026-09-25T12:00:00+08:00",
+      "competition_start": null,
+      "competition_end": null,
+      "submission_deadline": null,
+      "participation_mode": "unknown",
+      "mode_details": "官方暂未明确",
+      "eligibility": [
+        "通知规定参赛人员年龄不超过 35 岁（1991-03-01 及以后出生），教师不得作为项目团队成员。",
+        "具体学籍和组队要求因赛道而异，须核对高教主赛道、青年红色筑梦之旅、职教、产业、萌芽等附件。"
+      ],
+      "deliverables": [],
+      "milestones": [
+        {
+          "name": "各地完成省级复赛",
+          "date": "2026-10-25"
+        },
+        {
+          "name": "各地完成入围总决赛项目推荐",
+          "date": "2026-10-31"
+        }
+      ],
+      "entry_url": "https://cy.ncss.cn",
+      "fees": null,
+      "notes": [
+        "全国报名已截止；通知安排初赛复赛为 2026 年 8—10 月、总决赛为 11 月，具体总决赛日期未取得。",
+        "本条为与原表旧名称相关的现名官方通知；学院是否将当前名称和全部赛道按原表认定需确认。",
+        "未把按月公布的赛程补成具体起止日，也未假定当前可新报名。"
+      ],
+      "sources": [
+        {
+          "url": "https://www.moe.gov.cn/srcsite/A08/s5672/202607/t20260731_1445670.html",
+          "title": "教育部关于举办中国国际大学生创新大赛（2026）的通知",
+          "published_date": "2026-07-31",
+          "kind": "organizer"
+        }
+      ],
+      "current_phase": "初赛复赛阶段；各地须于 10 月 25 日前完成省级复赛",
+      "track_requirements": [],
+      "key": "2:2026:现名赛事相关通知（映射待确认）",
+      "verified_as_of": "2026-10-15T22:43:24.310518+08:00",
+      "content_rechecked_on": "2026-10-16",
+      "status": "in_progress",
+      "accepting_registration": false,
+      "deadlines": [],
+      "catalog_names": [
+        "中国“互联网+”大学生创新创业大赛"
+      ],
+      "levels": [
+        "A类"
+      ],
+      "level_conflict": false,
+      "name_mapping_unconfirmed": true,
+      "phase_period": {
+        "start": "2026-08",
+        "end": "2026-10"
+      }
+    },
+    {
+      "competition_ids": [
+        4
+      ],
+      "edition": "2026（第十五届）",
+      "title": "“挑战杯”中国大学生创业计划大赛（第十五届全国通知）",
+      "track": "主体赛事",
+      "registration_start": null,
+      "registration_end": null,
+      "competition_start": null,
+      "competition_end": null,
+      "submission_deadline": null,
+      "participation_mode": "unknown",
+      "mode_details": "全国终审决赛地点为大连理工大学；通知未给出各环节具体线上/线下方式。",
+      "eligibility": [
+        "2026-06-01 前正式注册的国内全日制非成人普通高校在校专科生、本科生、硕士和博士研究生（不含在职研究生），以及全日制职业本科/高职高专学生。",
+        "支持国外学生独立参赛或中外学生联合组队；需经校赛、省赛遴选推报。"
+      ],
+      "deliverables": [],
+      "milestones": [],
+      "entry_url": null,
+      "fees": null,
+      "notes": [
+        "全国通知仅写校赛 5 月底前、省赛 6 月底前、全国决赛 11 月前，具体终审决赛日期未核实。",
+        "报名已经历校级和省级遴选，不能把本条解读为当前全国自由报名开放。",
+        "所读为挑战杯官网高校专区的组委会通知转载，须继续跟踪全国终审决赛细则。"
+      ],
+      "sources": [
+        {
+          "url": "https://gaoxiao.tiaozhanbei.net/d1204/article/49690/",
+          "title": "第十五届“挑战杯”建设银行中国大学生创业计划竞赛通知（成都大学专区）",
+          "published_date": "2026-09-23",
+          "kind": "university"
+        }
+      ],
+      "track_requirements": [],
+      "key": "4:2026:主体赛事",
+      "verified_as_of": "2026-10-15T22:43:24.310518+08:00",
+      "content_rechecked_on": "2026-10-16",
+      "status": "unknown",
+      "accepting_registration": false,
+      "deadlines": [],
+      "catalog_names": [
+        "“挑战杯”中国大学生创业计划大赛"
+      ],
+      "levels": [
+        "A类"
+      ],
+      "level_conflict": false,
+      "name_mapping_unconfirmed": false
+    },
+    {
+      "competition_ids": [
+        5
+      ],
+      "edition": "2026（第51届）",
+      "title": "ACM-ICPC国际大学生程序设计竞赛（2026 Asia EC 区域赛拟定赛程）",
+      "track": "Asia EC 区域赛赛程汇总",
+      "registration_start": null,
+      "registration_end": null,
+      "competition_start": null,
+      "competition_end": null,
+      "submission_deadline": null,
+      "participation_mode": "unknown",
+      "mode_details": "官方暂未明确",
+      "eligibility": [],
+      "deliverables": [],
+      "milestones": [
+        {
+          "name": "西安站拟定比赛首日",
+          "date": "2026-10-17"
+        },
+        {
+          "name": "西安站拟定比赛末日",
+          "date": "2026-10-18"
+        },
+        {
+          "name": "成都站拟定比赛首日",
+          "date": "2026-10-24"
+        },
+        {
+          "name": "武汉站拟定比赛首日",
+          "date": "2026-10-31"
+        },
+        {
+          "name": "南京站拟定比赛首日",
+          "date": "2026-11-07"
+        },
+        {
+          "name": "沈阳站拟定比赛首日",
+          "date": "2026-11-14"
+        },
+        {
+          "name": "上海站拟定比赛首日",
+          "date": "2026-12-05"
+        },
+        {
+          "name": "南昌站拟定比赛首日",
+          "date": "2026-12-19"
+        },
+        {
+          "name": "香港站拟定比赛首日",
+          "date": "2027-01-09"
+        },
+        {
+          "name": "杭州 EC Final 拟定首日",
+          "date": "2027-01-26"
+        }
+      ],
+      "entry_url": "https://icpc.pku.edu.cn/",
+      "fees": null,
+      "notes": [
+        "官网明确汇总日期全部为暂定，最终以各站报名通知为准，故没有将其填入确定的 competition_start/end。",
+        "两场网络预选赛已于 2026-09-06 和 2026-09-12 举办；成绩为各区域赛入围的重要参考。",
+        "各站报名截止、所需身份文件、最终收费及线下安排在嵌入邀请函中；本轮未提取成功，未知字段留空。"
+      ],
+      "sources": [
+        {
+          "url": "https://icpc.pku.edu.cn/ssxx/bed2c89264fd4d90b08bc93036051186.htm",
+          "title": "2026 ICPC Asia EC 各区域赛情况汇总",
+          "published_date": "2026-08-05",
+          "kind": "organizer"
+        },
+        {
+          "url": "https://icpc.pku.edu.cn/tzgg/12450f30353743ccaa302be16a7a1d85.htm",
+          "title": "2026 ICPC Asia EC 网络预选赛报名通知",
+          "published_date": "2026-08-10",
+          "kind": "organizer"
+        }
+      ],
+      "track_requirements": [],
+      "key": "5:2026:Asia EC 区域赛赛程汇总",
+      "verified_as_of": "2026-10-15T22:43:24.310518+08:00",
+      "content_rechecked_on": "2026-10-16",
+      "status": "unknown",
+      "accepting_registration": false,
+      "deadlines": [],
+      "catalog_names": [
+        "ACM-ICPC国际大学生程序设计竞赛"
+      ],
+      "levels": [
+        "A类"
+      ],
+      "level_conflict": false,
+      "name_mapping_unconfirmed": false
+    },
+    {
+      "competition_ids": [
+        10
+      ],
+      "edition": "2026",
+      "title": "外研社杯全国大学生英语系列赛（相关现名通知：国际传播综合能力赛项，映射待确认）",
+      "track": "国际传播综合能力（映射待确认）",
+      "registration_start": "2026-06-02",
+      "registration_end": null,
+      "competition_start": null,
+      "competition_end": null,
+      "submission_deadline": null,
+      "participation_mode": "unknown",
+      "mode_details": "官方暂未明确",
+      "eligibility": [
+        "官方 2026 外语能力大赛英语组面向全国普通高校全日制在校本科生和硕士研究生，包括来华留学生。",
+        "省赛由各院校推荐晋级，具体学校报名截止和当地省赛安排须查本校/本省通知。"
+      ],
+      "deliverables": [
+        "综合能力省赛：客观题、汉译英及议论文写作；定题演讲以视频提交，具体渠道按各地省赛通知。"
+      ],
+      "milestones": [
+        {
+          "name": "综合能力分赛项省赛可选场次一（当地二选一）",
+          "date": "2026-10-24"
+        },
+        {
+          "name": "综合能力分赛项省赛可选场次二（当地二选一）",
+          "date": "2026-10-31"
+        }
+      ],
+      "entry_url": "https://ucc.fltrp.com/",
+      "fees": null,
+      "notes": [
+        "官方现名和赛项结构与原表不同；原表英语演讲/写作/阅读/辩论等与当届国际传播综合能力赛项的学院认定映射需确认。",
+        "全国统一线上初赛已于 10 月 11 日举行；省赛安排 10—11 月，国赛 11—12 月。",
+        "不能因省赛尚未来临就断言可新报名；学校截止时间各自规定，未取得兰大/甘肃省当届具体通知。",
+        "辩论子赛本轮未核实，不能将本条视为覆盖原表全部英语系列子赛。"
+      ],
+      "sources": [
+        {
+          "url": "https://ucc.fltrp.com/c/2026-04-15/541569.shtml",
+          "title": "2026“外研社·国才杯”“理解当代中国”全国大学生外语能力大赛通知与英语组国际传播综合能力方案",
+          "published_date": "2026-04-16",
+          "kind": "organizer"
+        }
+      ],
+      "current_phase": "省赛阶段；综合能力笔试为 10 月 24 日或 31 日，各地选择场次",
+      "track_requirements": [],
+      "key": "10:2026:国际传播综合能力（映射待确认）",
+      "verified_as_of": "2026-10-15T22:43:24.310518+08:00",
+      "content_rechecked_on": "2026-10-16",
+      "status": "in_progress",
+      "accepting_registration": false,
+      "deadlines": [],
+      "catalog_names": [
+        "外研社杯全国大学生英语系列赛-英语演讲、英语辩论、英语写作、英语阅读"
+      ],
+      "levels": [
+        "A类"
+      ],
+      "level_conflict": false,
+      "name_mapping_unconfirmed": true,
+      "phase_period": {
+        "start": "2026-10",
+        "end": "2026-11"
+      }
+    },
+    {
+      "competition_ids": [
+        11
+      ],
+      "edition": "2027（第二十六届 ROBOCON）",
+      "title": "全国大学生机器人大赛-RoboMaster、RoboCon、RoboTac（ROBOCON 2027 规则已发布）",
+      "track": "ROBOCON 2027 规则预告",
+      "registration_start": null,
+      "registration_end": null,
+      "competition_start": null,
+      "competition_end": null,
+      "submission_deadline": null,
+      "participation_mode": "unknown",
+      "mode_details": "官方暂未明确",
+      "eligibility": [],
+      "deliverables": [],
+      "milestones": [],
+      "entry_url": null,
+      "fees": null,
+      "notes": [
+        "ROBOCON 官方于 2026-10-08 发布《2027 年足式机器人挑战赛-V1.0》；于 9 月 22 日发布第二十六届女娲补天竞技赛规则 V1。",
+        "这里只核实规则发布，未核实第二十六届报名起止、比赛日期和材料提交节点。",
+        "该条不能据此认定 RoboMaster 或 ROBOTAC 新赛季已开放报名。"
+      ],
+      "sources": [
+        {
+          "url": "https://www.robocon.org.cn/sys-nd/132.html",
+          "title": "2027 年足式机器人挑战赛-V1.0",
+          "published_date": "2026-10-08",
+          "kind": "organizer"
+        },
+        {
+          "url": "https://www.robocon.org.cn/sys-nd/131.html",
+          "title": "第二十六届全国大学生机器人大赛女娲补天竞技赛规则 V1",
+          "published_date": "2026-09-22",
+          "kind": "organizer"
+        }
+      ],
+      "track_requirements": [],
+      "key": "11:2027:ROBOCON 2027 规则预告",
+      "verified_as_of": "2026-10-15T22:43:24.310518+08:00",
+      "content_rechecked_on": "2026-10-16",
+      "status": "unknown",
+      "accepting_registration": false,
+      "deadlines": [],
+      "catalog_names": [
+        "全国大学生机器人大赛-RoboMaster、RoboCon、RoboTac"
+      ],
+      "levels": [
+        "A类"
+      ],
+      "level_conflict": false,
+      "name_mapping_unconfirmed": true
+    },
+    {
+      "competition_ids": [
+        15
+      ],
+      "edition": "2026",
+      "title": "中国机器人大赛暨RoboCup机器人世界杯中国赛（中国机器人大赛赛区）",
+      "track": "中国机器人大赛赛区",
+      "registration_start": "2026-08-20",
+      "registration_end": "2026-09-10",
+      "competition_start": "2026-10-16",
+      "competition_end": "2026-10-18",
+      "submission_deadline": "2026-09-16T00:00:00+08:00",
+      "participation_mode": "hybrid",
+      "mode_details": "校赛及在线技术资格认证，晋级队伍在杭州白马湖国际会展中心现场报到、调试及比赛；并非全程线上。",
+      "eligibility": [
+        "须经过校赛/区域赛或专项赛取得总决赛资格，并通过在线技术资格认证；各赛项晋级路径不同。"
+      ],
+      "deliverables": [
+        "报名表和免责声明：全体成员（含指导教师）签字、加盖二级学院公章，扫描为 PDF 上传报名系统（第一轮通知要求 9 月 15 日 24 时前）。",
+        "现场报到携带所有到场成员（含指导教师）身份证原件、签字盖章纸质报名表及免责声明、每队一份签字盖章安全承诺书。",
+        "所有到场人员须购买人身意外保险，报到出示电子或纸质有效保单。",
+        "机器人实物/仿真作品及技术材料按所报赛项规则准备，未逐一提取赛项要求。"
+      ],
+      "milestones": [
+        {
+          "name": "报名表及免责声明上传截止",
+          "date": "2026-09-16T00:00:00+08:00"
+        },
+        {
+          "name": "注册费缴纳截止",
+          "date": "2026-09-21T00:00:00+08:00"
+        },
+        {
+          "name": "现场报到开始（09:00）",
+          "date": "2026-10-15T09:00:00+08:00"
+        },
+        {
+          "name": "现场报到及调试截止（18:00）",
+          "date": "2026-10-15T18:00:00+08:00"
+        },
+        {
+          "name": "比赛首日",
+          "date": "2026-10-16"
+        },
+        {
+          "name": "比赛末日",
+          "date": "2026-10-18"
+        }
+      ],
+      "entry_url": "https://robotreg.drct-caa.org.cn/",
+      "fees": "总决赛注册费 1200 元/队，仅含注册费，食宿自理；缴费期限已过。",
+      "notes": [
+        "今天为现场报到和调试日，正式比赛明日开始；报名窗口已结束，仅提醒已晋级队伍。",
+        "第一轮通知写 10 月 15 日下午报到；9 月 30 日较新的《报到须知》明确改为 09:00—18:00，以后者为准。",
+        "原文截止为 9 月 15 日/20 日 24 时，结构化数据等价记录为次日 00:00；阅读截止提醒时以原文的 9 月 15 日/20 日 24 时为准。",
+        "本条仅中国机器人大赛赛区；RoboCup 赛区另有赛程，不能泛化为所有赛区同时举行。"
+      ],
+      "sources": [
+        {
+          "url": "https://rcccaa.drct-caa.org.cn/article_info.php?id=139",
+          "title": "2026 中国机器人大赛赛区第一轮比赛通知",
+          "published_date": "2026-08-03",
+          "kind": "organizer"
+        },
+        {
+          "url": "https://rcccaa.drct-caa.org.cn/image/file/20260803/1785748120164370.pdf",
+          "title": "2026 中国机器人大赛赛区第一轮比赛通知附件",
+          "published_date": "2026-07-26",
+          "kind": "organizer"
+        },
+        {
+          "url": "https://rcccaa.drct-caa.org.cn/image/file/20260930/1790755146777071.pdf",
+          "title": "2026 中国机器人大赛赛区报到须知",
+          "published_date": "2026-09-30",
+          "kind": "organizer"
+        }
+      ],
+      "track_requirements": [],
+      "key": "15:2026:中国机器人大赛赛区",
+      "verified_as_of": "2026-10-15T22:43:24.310518+08:00",
+      "content_rechecked_on": "2026-10-16",
+      "status": "upcoming",
+      "accepting_registration": false,
+      "deadlines": [],
+      "catalog_names": [
+        "中国机器人大赛暨RoboCup机器人世界杯中国赛"
+      ],
+      "levels": [
+        "A类"
+      ],
+      "level_conflict": false,
+      "name_mapping_unconfirmed": false
+    },
+    {
+      "competition_ids": [
+        17
+      ],
+      "edition": "2027（第十八届）",
+      "title": "蓝桥杯全国软件和信息技术专业人才大赛（第十八届：软件赛、电子赛、人工智能赛及鸿蒙应用开发专项赛）",
+      "track": "软件赛、电子赛、人工智能赛及鸿蒙应用开发专项赛",
+      "registration_start": "2026-10-08T10:00:00+08:00",
+      "registration_end": "2026-12-18T14:00:00+08:00",
+      "competition_start": null,
+      "competition_end": null,
+      "submission_deadline": null,
+      "participation_mode": "hybrid",
+      "mode_details": "科目分流：C/C++、Java、Python、Web、鸿蒙以及单片机、嵌入式、EDA、FPGA原则上在线下赛点集中个人参赛；软件测试、网络安全、AI三科、物联网、5G明确为线上个人限时赛。",
+      "eligibility": [
+        "正式全日制研究生、本科生及高职高专学生，以报名时学籍状态为准；个人独立参赛，每位选手配1名指导教师。",
+        "C/C++、Java、Python：研究生只能报研究生组；985/211高校本科生只能报大学A组或研究生组；其他本科生可报大学B组及以上；高职高专可自行选择组别。因此兰大本科生不能报大学B组。",
+        "同一比赛时间只能选一个科目；不同时段可报多个。学校审核后统一缴费或授权学生缴费，注册账号不等于完成参赛报名。"
+      ],
+      "deliverables": [
+        "报名认证：姓名、证件号码、2寸彩色证件照电子版、身份证正反面照片；填写学校/学历/入学毕业时间/院系，并上传学生证照片。",
+        "C/C++、Java、Python：比赛指定网页内提交结果填空答案与程序源代码，限比赛时段提交，以最后一次提交为准；不是上传预先准备的项目作品。",
+        "Web与鸿蒙：按现场题面PDF和基础源代码完成编程实操，在指定网页提交代码/题面要求的资料。",
+        "AI模型应用开发、智能体开发、数据分析与可视化：线上按题完成实操，向指定比赛系统提交答案/可运行应用或相应代码文档，具体交付目录依正式题面。",
+        "网络安全科目提交从赛题环境中得到的flag；软件测试提交题面要求的测试答案；电子科目按对应硬件、EDA或仿真环境完成客观题及实操任务。",
+        "赛前一周下载并打印准考证；线上科目须提前按各科赛规配置电脑、摄像头和监考环境。"
+      ],
+      "milestones": [
+        {
+          "name": "C/C++、Java、Python、Web省赛（拟定，09:00—13:00）",
+          "date": "2027-04-10T09:00:00+08:00"
+        },
+        {
+          "name": "单片机、嵌入式、EDA、FPGA省赛（拟定，09:00—14:00）",
+          "date": "2027-04-11T09:00:00+08:00"
+        },
+        {
+          "name": "软件测试、网络安全、AI三科、鸿蒙、5G（拟定，09:00—13:00）；物联网09:00—14:00",
+          "date": "2027-04-24T09:00:00+08:00"
+        },
+        {
+          "name": "软件/电子部分科目全国总决赛计划日期（不含软件测试、网络安全、5G）",
+          "date": "2027-06-12"
+        }
+      ],
+      "entry_url": "https://dasai.lanqiao.cn/",
+      "fees": null,
+      "notes": [
+        "具体比赛方式、地点和时间以准考证及组委会后续通知为准；同一人多科晋级上述6月12日总决赛时须选择一科。",
+        "当届名称与学院原表名称不同，新增科目及更名后的学院认定映射需确认。"
+      ],
+      "sources": [
+        {
+          "url": "https://sfzx.yangtzeu.edu.cn/info/1058/1953.htm",
+          "title": "关于举办 2027 年第十八届蓝桥杯全国大学生软件和信息技术大赛的通知",
+          "published_date": "2026-10-13",
+          "kind": "university"
+        },
+        {
+          "url": "https://www.lanqiao.cn/",
+          "title": "蓝桥官方平台首页",
+          "published_date": null,
+          "kind": "organizer"
+        },
+        {
+          "url": "https://design.lanqiao.cn/news-detail/3090",
+          "title": "关于举办第十八届蓝桥杯全国大学生软件和信息技术大赛的通知",
+          "published_date": "2026-10-08",
+          "kind": "organizer"
+        },
+        {
+          "url": "https://www.lncu.edu.cn/cxcyxy/29096.html",
+          "title": "辽宁传媒学院：第十八届蓝桥杯全国大学生软件和信息技术大赛通知",
+          "published_date": "2026-10-10",
+          "kind": "university"
+        },
+        {
+          "url": "https://www.guoxinlanqiao.com/api/web/news/selectone?nnid=3090",
+          "title": "第十八届蓝桥杯举办通知（盖章原件，第3—5页）",
+          "published_date": "2026-10-08",
+          "kind": "organizer"
+        },
+        {
+          "url": "https://x-static.lanqiao.cn/upload/202610/courseimg/46997031-3782-4a65-8a2e-590172de6104.pdf",
+          "title": "第十八届蓝桥杯软件、电子赛报名指南",
+          "published_date": "2026-10-13",
+          "kind": "organizer"
+        },
+        {
+          "url": "https://x-static.lanqiao.cn/upload/202610/courseimg/e7104894-4709-4a47-85aa-3661655367d9.pdf",
+          "title": "第十八届蓝桥杯人工智能赛报名指南",
+          "published_date": "2026-10-13",
+          "kind": "organizer"
+        },
+        {
+          "url": "https://x-static.lanqiao.cn/upload/202610/courseimg/582c9d04-1d3f-407a-a0b3-3a57dd0ae7b6.pdf",
+          "title": "第十八届蓝桥杯鸿蒙应用开发报名指南",
+          "published_date": "2026-10-13",
+          "kind": "organizer"
+        },
+        {
+          "url": "https://www.guoxinlanqiao.com/api/web/news/selectone?nnid=838",
+          "title": "第十八届C/C++程序设计竞赛规则",
+          "published_date": "2026-10-08",
+          "kind": "organizer"
+        },
+        {
+          "url": "https://www.guoxinlanqiao.com/api/web/news/selectone?nnid=1366",
+          "title": "第十八届Java软件开发竞赛规则",
+          "published_date": "2026-10-08",
+          "kind": "organizer"
+        },
+        {
+          "url": "https://www.guoxinlanqiao.com/api/web/news/selectone?nnid=1054",
+          "title": "第十八届Python程序设计竞赛规则",
+          "published_date": "2026-10-08",
+          "kind": "organizer"
+        },
+        {
+          "url": "https://www.guoxinlanqiao.com/api/web/news/selectone?nnid=1202",
+          "title": "第十八届Web应用开发竞赛规则",
+          "published_date": "2026-10-08",
+          "kind": "organizer"
+        },
+        {
+          "url": "https://www.guoxinlanqiao.com/api/web/news/selectone?nnid=3001",
+          "title": "第十八届鸿蒙应用开发竞赛规则",
+          "published_date": "2026-10-08",
+          "kind": "organizer"
+        },
+        {
+          "url": "https://www.guoxinlanqiao.com/api/web/news/selectone?nnid=1821",
+          "title": "第十八届软件测试竞赛规则",
+          "published_date": "2026-10-08",
+          "kind": "organizer"
+        },
+        {
+          "url": "https://www.guoxinlanqiao.com/api/web/news/selectone?nnid=1531",
+          "title": "第十八届网络安全竞赛规则",
+          "published_date": "2026-10-08",
+          "kind": "organizer"
+        },
+        {
+          "url": "https://www.guoxinlanqiao.com/api/web/news/selectone?nnid=1819",
+          "title": "第十八届AI模型应用开发竞赛规则",
+          "published_date": "2026-10-08",
+          "kind": "organizer"
+        },
+        {
+          "url": "https://www.guoxinlanqiao.com/api/web/news/selectone?nnid=1820",
+          "title": "第十八届数据分析与可视化竞赛规则",
+          "published_date": "2026-10-08",
+          "kind": "organizer"
+        },
+        {
+          "url": "https://www.guoxinlanqiao.com/api/web/news/selectone?nnid=1822",
+          "title": "第十八届智能体开发竞赛规则",
+          "published_date": "2026-10-08",
+          "kind": "organizer"
+        },
+        {
+          "url": "https://www.guoxinlanqiao.com/api/web/news/selectone?nnid=1203",
+          "title": "第十八届单片机设计与开发竞赛规则",
+          "published_date": "2026-10-08",
+          "kind": "organizer"
+        },
+        {
+          "url": "https://www.guoxinlanqiao.com/api/web/news/selectone?nnid=1204",
+          "title": "第十八届嵌入式设计与开发竞赛规则",
+          "published_date": "2026-10-08",
+          "kind": "organizer"
+        },
+        {
+          "url": "https://www.guoxinlanqiao.com/api/web/news/selectone?nnid=1133",
+          "title": "第十八届EDA设计与开发竞赛规则",
+          "published_date": "2026-10-08",
+          "kind": "organizer"
+        },
+        {
+          "url": "https://www.guoxinlanqiao.com/api/web/news/selectone?nnid=1667",
+          "title": "第十八届FPGA设计与开发竞赛规则",
+          "published_date": "2026-10-08",
+          "kind": "organizer"
+        },
+        {
+          "url": "https://www.guoxinlanqiao.com/api/web/news/selectone?nnid=1053",
+          "title": "第十八届物联网设计与开发竞赛规则",
+          "published_date": "2026-10-08",
+          "kind": "organizer"
+        },
+        {
+          "url": "https://www.guoxinlanqiao.com/api/web/news/selectone?nnid=1532",
+          "title": "第十八届5G全网规划与建设竞赛规则",
+          "published_date": "2026-10-08",
+          "kind": "organizer"
+        },
+        {
+          "url": "https://www.guoxinlanqiao.com/api/web/news/selectone?nnid=3004",
+          "title": "关于公布第十八届省赛比赛时间的通知",
+          "published_date": "2026-10-08",
+          "kind": "organizer"
+        }
+      ],
+      "action_summary": "先按线上/线下和比赛时段选科目，再完成证件认证、联系院校老师审核与缴费；兰大本科生参加C/C++、Java、Python时选大学A组或研究生组。",
+      "track_requirements": [
+        {
+          "name": "软件测试、网络安全、AI三科、物联网、5G",
+          "mode": "online",
+          "mode_details": "线上个人限时赛",
+          "eligibility": [],
+          "deliverables": []
+        },
+        {
+          "name": "C/C++、Java、Python、Web、鸿蒙、单片机、嵌入式、EDA、FPGA",
+          "mode": "offline",
+          "mode_details": "线下赛点集中个人参赛",
+          "eligibility": [],
+          "deliverables": []
+        }
+      ],
+      "key": "17:2027:软件赛、电子赛、人工智能赛及鸿蒙应用开发专项赛",
+      "verified_as_of": "2026-10-15T22:43:24.310518+08:00",
+      "content_rechecked_on": "2026-10-16",
+      "status": "registration_open",
+      "accepting_registration": true,
+      "deadlines": [],
+      "catalog_names": [
+        "蓝桥杯全国软件和信息技术专业人才大赛"
+      ],
+      "levels": [
+        "A类"
+      ],
+      "level_conflict": false,
+      "name_mapping_unconfirmed": true,
+      "submission_format": "报名材料为证件照、身份证正反面和学生证照片；竞赛答案通过指定系统限时提交。C/C++/Java/Python提交答案/源代码；Web/鸿蒙依题面完成项目；AI/测试/网安按题目要求交付，电子科目包含硬件或仿真实操。"
+    },
+    {
+      "competition_ids": [
+        17
+      ],
+      "edition": "2027（第十八届）",
+      "title": "蓝桥杯全国软件和信息技术专业人才大赛（第十八届：视觉艺术设计赛、数字科技创新赛）",
+      "track": "视觉艺术设计赛、数字科技创新赛",
+      "registration_start": "2026-10-08T10:00:00+08:00",
+      "registration_end": "2027-04-26T14:00:00+08:00",
+      "competition_start": null,
+      "competition_end": null,
+      "submission_deadline": "2027-04-26T14:00:00+08:00",
+      "participation_mode": "hybrid",
+      "mode_details": "视觉艺术设计赛通过报名系统线上上传作品、由专家评审；数字科技应用创新选拔赛线上交方案，决赛集中演示答辩；智能装备数字化建模先交模型/报告/视频，决赛按指定日期和地点答辩。",
+      "eligibility": [
+        "正式全日制研究生、本科生、高职高专学生，以报名时状态为准。",
+        "视觉艺术设计：多数科目1—3人，视频设计和动画设计1—4人；均不能跨校，每队最多2名指导教师。数字科技应用创新：同校1—3人，每队最多2名指导教师。",
+        "智能装备数字化建模分大学组和职业院校组，研究生/本科生报大学组，高职高专可自行选组。按报名指南由队长建队并确定成员/指导教师，院校审核；需缴费的赛项由院校缴费或授权队长缴费。"
+      ],
+      "deliverables": [
+        "报名认证：姓名、证件号码、2寸彩色证件照电子版、身份证正反面照片；填写学校/学历/入学毕业时间/院系，并上传学生证照片。",
+        "视觉设计：提交对应科目的作品、500字以内设计说明；静态海报等还需源文件压缩包。使用AIGC须在说明中交代工具/方法/输入素材/参数，并按规则标识生成内容；作品不得出现学校、团队及成员姓名。",
+        "静态海报：A3、300DPI、JPG，每张≤10M、系列≤3件，源文件压缩包≤500M；当届命题海报主题为《过剩时代的“适度”》。",
+        "视频设计：MP4，180—300秒、16:9、高清及以上、≤500MB；动画：MP4、30—180秒、16:9、24帧/秒、≤500MB；AIGC微短剧：180—300秒、≥1080p、H.264/AAC、≥24帧/秒、MP4≤500MB。",
+        "数字科技应用创新选拔赛：方案概要PPT或Word一份≤20M；详细解决方案Word和PDF各一份、内容相同、≤10M，包含需求分析、项目报告、技术路线、商业可行性。",
+        "数字科技应用创新决赛：完善方案并集中演示答辩；演示视频为选传，MP4≤100M、≤5分钟；专利/软著等其他材料选传，决赛整体压缩包≤150M。",
+        "智能装备数字化建模：使用MWORKS平台建立控制算法与多领域物理系统的集成仿真模型，选拔赛交系统模型、仿真分析报告、演示视频；决赛完善模型，补作品汇报PPT并参加答辩。",
+        "由队长或院校老师在“我的比赛—作品上传”提交，错过2027年4月26日14:00作品截止将无法参赛。"
+      ],
+      "milestones": [],
+      "entry_url": "https://dasai.lanqiao.cn/",
+      "fees": "智能装备数字化建模科目免费，交通住宿自理。",
+      "notes": [
+        "视觉设计各细分科目尺寸、张数、视频时长不同，提交前须逐项对照当届赛规；上述静态海报、视频、动画等规格均来自第十八届规则。",
+        "当届名称与学院原表名称不同，新增科目及更名后的学院认定映射需确认。"
+      ],
+      "sources": [
+        {
+          "url": "https://sfzx.yangtzeu.edu.cn/info/1058/1953.htm",
+          "title": "关于举办 2027 年第十八届蓝桥杯全国大学生软件和信息技术大赛的通知",
+          "published_date": "2026-10-13",
+          "kind": "university"
+        },
+        {
+          "url": "https://www.lanqiao.cn/",
+          "title": "蓝桥官方平台首页",
+          "published_date": null,
+          "kind": "organizer"
+        },
+        {
+          "url": "https://design.lanqiao.cn/news-detail/3090",
+          "title": "关于举办第十八届蓝桥杯全国大学生软件和信息技术大赛的通知",
+          "published_date": "2026-10-08",
+          "kind": "organizer"
+        },
+        {
+          "url": "https://www.lncu.edu.cn/cxcyxy/29096.html",
+          "title": "辽宁传媒学院：第十八届蓝桥杯全国大学生软件和信息技术大赛通知",
+          "published_date": "2026-10-10",
+          "kind": "university"
+        },
+        {
+          "url": "https://www.guoxinlanqiao.com/api/web/news/selectone?nnid=3090",
+          "title": "第十八届蓝桥杯举办通知（盖章原件，第3—5页）",
+          "published_date": "2026-10-08",
+          "kind": "organizer"
+        },
+        {
+          "url": "https://x-static.lanqiao.cn/upload/202610/courseimg/b355a4aa-5deb-4c2f-bd22-45d7d43efdde.pdf",
+          "title": "第十八届蓝桥杯视觉艺术设计赛报名指南",
+          "published_date": "2026-10-13",
+          "kind": "organizer"
+        },
+        {
+          "url": "https://x-static.lanqiao.cn/upload/202610/courseimg/ad08abab-c01b-4783-bdda-726596deb1ea.pdf",
+          "title": "第十八届蓝桥杯数字科技创新赛报名指南",
+          "published_date": "2026-10-13",
+          "kind": "organizer"
+        },
+        {
+          "url": "https://www.guoxinlanqiao.com/api/web/news/selectone?nnid=1367",
+          "title": "第十八届视觉艺术设计赛竞赛规则及说明",
+          "published_date": "2026-10-08",
+          "kind": "organizer"
+        },
+        {
+          "url": "https://www.guoxinlanqiao.com/api/web/news/selectone?nnid=1826",
+          "title": "第十八届数字科技应用创新竞赛规则",
+          "published_date": "2026-10-08",
+          "kind": "organizer"
+        },
+        {
+          "url": "https://www.guoxinlanqiao.com/api/web/news/selectone?nnid=3003",
+          "title": "第十八届智能装备数字化建模大赛通知",
+          "published_date": "2026-10-08",
+          "kind": "organizer"
+        }
+      ],
+      "action_summary": "先选设计作品类或数字科技项目类：设计按科目组同校队伍并准备成品/说明/源文件；数字科技项目准备方案文档，建模科目准备MWORKS模型、报告和视频。由队长/院校老师上传。",
+      "track_requirements": [
+        {
+          "name": "视觉艺术设计赛",
+          "mode": "online",
+          "mode_details": "报名系统上传作品、专家评审",
+          "eligibility": [],
+          "deliverables": []
+        },
+        {
+          "name": "数字科技应用创新选拔赛",
+          "mode": "hybrid",
+          "mode_details": "线上交方案，决赛集中演示答辩",
+          "eligibility": [],
+          "deliverables": []
+        },
+        {
+          "name": "智能装备数字化建模",
+          "mode": "hybrid",
+          "mode_details": "先交模型、报告、视频，决赛按指定日期和地点答辩",
+          "eligibility": [],
+          "deliverables": []
+        }
+      ],
+      "key": "17:2027:视觉艺术设计赛、数字科技创新赛",
+      "verified_as_of": "2026-10-15T22:43:24.310518+08:00",
+      "content_rechecked_on": "2026-10-16",
+      "status": "registration_open",
+      "accepting_registration": true,
+      "deadlines": [],
+      "catalog_names": [
+        "蓝桥杯全国软件和信息技术专业人才大赛"
+      ],
+      "levels": [
+        "A类"
+      ],
+      "level_conflict": false,
+      "name_mapping_unconfirmed": true,
+      "submission_format": "设计类按科目提交JPG/GIF/MP4等成品、≤500字说明及所需源文件；数字科技应用创新先交≤20M概要和≤10M的Word/PDF详案；智能装备建模交系统模型、报告、演示视频。决赛答辩等安排按具体科目通知。"
+    },
+    {
+      "competition_ids": [
+        17
+      ],
+      "edition": "2027（第十八届）",
+      "title": "蓝桥杯全国软件和信息技术专业人才大赛（第十八届：主视觉与赛事 IP 文创设计专项赛）",
+      "track": "主视觉与赛事 IP 文创设计专项赛",
+      "registration_start": "2026-09-08T14:00:00+08:00",
+      "registration_end": "2026-11-30T14:00:00+08:00",
+      "competition_start": null,
+      "competition_end": null,
+      "submission_deadline": "2026-11-30T14:00:00+08:00",
+      "participation_mode": "online",
+      "mode_details": "在线报名并在报名系统上传作品；专家评审占80%，历届参赛选手线上投票占20%。",
+      "eligibility": [
+        "正式全日制研究生、本科生、高职高专学生，以报名时状态为准。",
+        "每队1—3人，不允许跨校组队；指定队长上传，每队最多2名指导教师；报名成员排序用于获奖证书，获奖后不能更改。"
+      ],
+      "deliverables": [
+        "主视觉赛道：围绕“巅峰18·竞无止境”提交整套主视觉方案，包含600×300cm横版背景板、57×84cm竖版海报和参赛证/工作证/T恤等衍生物料；嵌入官方LOGO及完整赛事名称。",
+        "IP文创赛道：以骆驼为原型创作“蓝驼驼”，包含带尺寸比例三视图、多套配色及CMYK/RGB值、至少3套服装道具、至少9个差异表情，并进行可落地的IP文创设计。",
+        "两赛道均上传A3、300DPI、RGB/CMYK的JPG，每张≤10M；主视觉系列≤3件，IP文创系列≤5件。另交500字以内设计说明和≤500M源文件压缩包。",
+        "作品原创、未商用/未授权他人使用；引用素材需标来源并附合法授权证明；不出现学校/团队/成员姓名；含AI内容须注明“AI生成”或“部分AI生成”，设计说明列明工具及方法参数。",
+        "报名系统中提交；截止前可反复修改，以最后一次为准，截止后不得替换。"
+      ],
+      "milestones": [
+        {
+          "name": "作品评审开始",
+          "date": "2026-12-01"
+        },
+        {
+          "name": "作品评审结束",
+          "date": "2026-12-17"
+        }
+      ],
+      "entry_url": "https://dasai.lanqiao.cn/",
+      "fees": "免费：全程不收取参赛费用。",
+      "notes": [
+        "参赛作品提交即按赛规授权组委会在全球范围展示、再设计、生产及商业/非商业使用；合作采用作品另有5000元知识产权转让对价约定，提交前应阅读版权条款。",
+        "当届名称与学院原表名称不同，本专项赛是否沿用学院认定需确认。"
+      ],
+      "sources": [
+        {
+          "url": "https://sfzx.yangtzeu.edu.cn/info/1058/1953.htm",
+          "title": "关于举办 2027 年第十八届蓝桥杯全国大学生软件和信息技术大赛的通知",
+          "published_date": "2026-10-13",
+          "kind": "university"
+        },
+        {
+          "url": "https://www.lanqiao.cn/",
+          "title": "蓝桥官方平台首页",
+          "published_date": null,
+          "kind": "organizer"
+        },
+        {
+          "url": "https://design.lanqiao.cn/news-detail/3090",
+          "title": "关于举办第十八届蓝桥杯全国大学生软件和信息技术大赛的通知",
+          "published_date": "2026-10-08",
+          "kind": "organizer"
+        },
+        {
+          "url": "https://www.lncu.edu.cn/cxcyxy/29096.html",
+          "title": "辽宁传媒学院：第十八届蓝桥杯全国大学生软件和信息技术大赛通知",
+          "published_date": "2026-10-10",
+          "kind": "university"
+        },
+        {
+          "url": "https://www.guoxinlanqiao.com/api/web/news/selectone?nnid=3090",
+          "title": "第十八届蓝桥杯举办通知（盖章原件，第3—5页）",
+          "published_date": "2026-10-08",
+          "kind": "organizer"
+        },
+        {
+          "url": "https://www.guoxinlanqiao.com/api/web/news/selectone?nnid=2161",
+          "title": "第十八届主视觉与赛事IP文创设计专项赛通知",
+          "published_date": "2026-09-08",
+          "kind": "organizer"
+        },
+        {
+          "url": "https://x-static.lanqiao.cn/upload/202609/courseimg/7dc4aee6-5d26-4b07-a205-072e1edf8b3c.pdf",
+          "title": "第十八届主视觉与赛事IP文创专项赛通知及附件（15页）",
+          "published_date": "2026-09-08",
+          "kind": "organizer"
+        }
+      ],
+      "action_summary": "这是免费线上作品赛；组1—3人同校队伍，在主视觉方案与“蓝驼驼”IP文创两赛道中按创作方向投递，11月30日14:00前上传成品、设计说明和源文件。",
+      "track_requirements": [],
+      "key": "17:2027:主视觉与赛事 IP 文创设计专项赛",
+      "verified_as_of": "2026-10-15T22:43:24.310518+08:00",
+      "content_rechecked_on": "2026-10-16",
+      "status": "registration_open",
+      "accepting_registration": true,
+      "deadlines": [],
+      "catalog_names": [
+        "蓝桥杯全国软件和信息技术专业人才大赛"
+      ],
+      "levels": [
+        "A类"
+      ],
+      "level_conflict": false,
+      "name_mapping_unconfirmed": true,
+      "submission_format": "JPG成品：A3、300DPI、RGB/CMYK，每张≤10M；主视觉≤3件/IP文创≤5件。配≤500字设计说明、≤500M源文件压缩包；AI内容须标识并说明使用过程。"
+    },
+    {
+      "competition_ids": [
+        37
+      ],
+      "edition": "2026年第十四届",
+      "title": "全国大学生数字媒体科技作品及创意竞赛",
+      "track": "全国主赛",
+      "registration_start": null,
+      "registration_end": "2026-10-23T23:59:59+08:00",
+      "competition_start": null,
+      "competition_end": "2026-11-29",
+      "submission_deadline": "2026-10-23T23:59:59+08:00",
+      "participation_mode": "online",
+      "mode_details": "官网注册并在线提交作品；全国总决赛安排作品在线评审展示、答辩交流；12月北京颁奖展览待定，不能据此视为必须线下参赛。",
+      "eligibility": [
+        "普通高校全日制研究生、本科生及高职高专学生，专业不限；学生1–5人，可不设指导教师，最多2名",
+        "允许跨校组队，明确第一申报单位和负责人；指导教师须为成员所在高校在职教师，研究生不可同时担任指导教师",
+        "一件作品只报一个赛道/类别，学生独立完成核心创作；截止后原则上不变更申报单位、人员和导师"
+      ],
+      "deliverables": [
+        "基本材料：作品介绍文档、演示视频、原创性及知识产权声明、AI工具使用情况说明；未用AI也须确认“未使用”。",
+        "盖章参赛承诺书：系统下载后打印盖学校教务处、二级学院或校级竞赛管理部门公章，上传1张图片或1个PDF；跨校由队长学校盖章。",
+        "作品截图最多10张；作品/答辩视频至少1个最多2个，单文件≤1GB；答辩PPT单文件≤200MB，上传界面要求答辩视频与PPT至少选一项。",
+        "参赛打包文件必交：单个ZIP/RAR/7Z，≤10GB；包含其他作品资料，完成后点击“提交审核”且生成作品编号才算成功。",
+        "软件/VR/游戏类须可运行文件、操作说明、功能截图和技术路线；移动/Web类须可访问或可运行版本、系统说明、功能演示及架构；智能硬件类准备设计说明、结构/原理图、硬件照片或原型视频。"
+      ],
+      "milestones": [
+        {
+          "name": "校级初赛开始",
+          "date": "2026-10-24"
+        },
+        {
+          "name": "赛区选拔开始",
+          "date": "2026-11-02"
+        },
+        {
+          "name": "全国总决赛开始",
+          "date": "2026-11-27"
+        }
+      ],
+      "entry_url": "https://www.cmit.cn/",
+      "fees": null,
+      "notes": [
+        "本届报名开始时间未在该通知正文明确",
+        "暂定12/4–6北京颁奖典礼/作品展，待后续通知",
+        "核验当日已有本届正式报名通知，截止尚未到达；开始日期未明确，未据发布日期补造。",
+        "附件1第2页将演示视频列为基本申报材料；上传界面的答辩视频/PPT为展示字段规则，两者不要混同。此次已核实文件大小与数量；统一说明文档页数和视频时长未在所读指南/流程中规定。"
+      ],
+      "sources": [
+        {
+          "url": "https://www.cmit.cn/html/tongzhigonggao/show-144-45826-1.html",
+          "title": "关于举办2026年第十四届全国大学生数字媒体科技作品及创意竞赛的通知",
+          "published_date": "2026-09-24",
+          "kind": "organizer"
+        },
+        {
+          "url": "https://www.cmit.cn/html/liucheng/show-277-45689-1.html",
+          "title": "2026电脑版作品提交流程使用说明（官方）",
+          "published_date": "2026-05-20",
+          "kind": "organizer"
+        },
+        {
+          "url": "https://static.cmit.cn/uploadfile/2026/0924/附件1 2026年第十四届全国大学生数字媒体科技作品及创意竞赛参赛指南.pdf",
+          "title": "附件1：2026第十四届数媒竞赛参赛指南（扫描版，已逐页查阅相关页面）",
+          "published_date": "2026-09-24",
+          "kind": "organizer"
+        }
+      ],
+      "track_requirements": [],
+      "key": "37:2026:全国主赛",
+      "verified_as_of": "2026-10-15T22:43:24.310518+08:00",
+      "content_rechecked_on": "2026-10-16",
+      "status": "registration_open",
+      "accepting_registration": true,
+      "deadlines": [],
+      "catalog_names": [
+        "全国大学生数字媒体科技作品及创意竞赛"
+      ],
+      "levels": [
+        "A类"
+      ],
+      "level_conflict": false,
+      "name_mapping_unconfirmed": false
+    },
+    {
+      "competition_ids": [
+        38
+      ],
+      "edition": "2026年第八届·赛区制",
+      "title": "全球校园人工智能算法精英大赛",
+      "track": "赛区制省赛",
+      "registration_start": "2026-04-28",
+      "registration_end": "2026-10-15T20:00:00+08:00",
+      "competition_start": null,
+      "competition_end": null,
+      "submission_deadline": null,
+      "participation_mode": "unknown",
+      "mode_details": "总通知未统一明确线上/线下，按具体赛道赛题及赛区通知核对。",
+      "eligibility": [
+        "全球高校和科研机构正式学籍在读研究生、本科生、专科生；具体限制以赛题为准",
+        "可单人或同校组队，禁止跨校；人数上限按赛题，最多2名指导教师",
+        "同一赛题每名选手只加入一队，作品须本届原创"
+      ],
+      "deliverables": [
+        "算法挑战赛按题要求提交算法模型、代码、赛题结果或解决方案；其他赛道材料以各赛题规则为准"
+      ],
+      "milestones": [
+        {
+          "name": "赛区制省赛须完成（最迟）",
+          "date": "2026-11-01"
+        }
+      ],
+      "entry_url": "https://reg.aicomp.cn/",
+      "fees": null,
+      "notes": [
+        "北京时间2026-10-15 20:00赛区制省赛报名已截止",
+        "此截止仅适用于赛区制省赛，不能推及赛马制或全部赛题",
+        "总决赛计划11月中下旬，具体时间地点另行通知；部分题可提前或延后，原则上12/31前完成"
+      ],
+      "sources": [
+        {
+          "url": "https://www.aicomp.cn/notice/notice-1/3618.html",
+          "title": "关于举办第八届全球校园人工智能算法精英大赛的通知",
+          "published_date": "2026-04-29",
+          "kind": "organizer"
+        }
+      ],
+      "track_requirements": [],
+      "key": "38:2026:赛区制省赛",
+      "verified_as_of": "2026-10-15T22:43:24.310518+08:00",
+      "content_rechecked_on": "2026-10-16",
+      "status": "registration_closed",
+      "accepting_registration": false,
+      "deadlines": [],
+      "catalog_names": [
+        "全球校园人工智能算法精英大赛"
+      ],
+      "levels": [
+        "A类"
+      ],
+      "level_conflict": false,
+      "name_mapping_unconfirmed": false
+    },
+    {
+      "competition_ids": [
+        39
+      ],
+      "edition": "2026年第十八届",
+      "title": "全国大学生数学竞赛",
+      "track": "全国初赛",
+      "registration_start": null,
+      "registration_end": "2026-10-19",
+      "competition_start": "2026-11-14T09:00:00+08:00",
+      "competition_end": "2026-11-14T11:30:00+08:00",
+      "submission_deadline": null,
+      "participation_mode": "offline",
+      "mode_details": "初赛由各赛区组织试卷印刷、考试、当堂密封及集中阅卷；地点按赛区/高校通知。",
+      "eligibility": [
+        "全国通知面向所有全日制在校大学生",
+        "数学专业类、非数学专业类、高职高专类，报考组别受专业和学校学科条件限制，须核对全文"
+      ],
+      "deliverables": [
+        "考试答卷；报名材料依所属赛区/高校要求，本轮全国正文未明确统一文件清单"
+      ],
+      "milestones": [
+        {
+          "name": "全国初赛",
+          "date": "2026-11-14"
+        }
+      ],
+      "entry_url": null,
+      "fees": "通知转述全国标准每人100元，具体缴费依所属赛区/学校。",
+      "notes": [
+        "10/19为全国通知要求的报名节点，许多学校/赛区更早截止，不代表所有人现在仍可报名",
+        "决赛预计2027年4月大连理工大学举行，具体日期待通知",
+        "主办方原站本轮打开暂不可用，依据高校官方转发全国通知；浙江赛区10/14已截止，其他赛区须分别核对。",
+        "全国报名办法仍在通知窗口内，但各地窗口不统一；未确认普遍仍受理，不据全国节点宣称所有赛区报名中。"
+      ],
+      "sources": [
+        {
+          "url": "https://slxy.wzu.edu.cn/info/1049/40636.htm",
+          "title": "温州大学转发第十八届全国大学生数学竞赛通知",
+          "published_date": "2026-09-29",
+          "kind": "university"
+        }
+      ],
+      "track_requirements": [],
+      "key": "39:2026:全国初赛",
+      "verified_as_of": "2026-10-15T22:43:24.310518+08:00",
+      "content_rechecked_on": "2026-10-16",
+      "status": "upcoming",
+      "accepting_registration": false,
+      "deadlines": [
+        {
+          "name": "全国报名节点（各校/赛区可更早截止）",
+          "date": "2026-10-19",
+          "days_left": 4
+        }
+      ],
+      "catalog_names": [
+        "全国大学生数学竞赛"
+      ],
+      "levels": [
+        "B类"
+      ],
+      "level_conflict": false,
+      "name_mapping_unconfirmed": false,
+      "registration_deadline_label": "全国报名节点（各校/赛区可更早截止）"
+    },
+    {
+      "competition_ids": [
+        49
+      ],
+      "edition": "2026第19届·AMD杯AI+3D创新应用大赛全国总决赛",
+      "title": "全国三维数字化创新设计大赛（大学生组）",
+      "track": "AMD杯AI+3D全国总决赛",
+      "registration_start": null,
+      "registration_end": null,
+      "competition_start": "2026-11-15",
+      "competition_end": "2026-11-15",
+      "submission_deadline": null,
+      "participation_mode": "online",
+      "mode_details": "11/15全国总决赛线上答辩评审；论坛及颁奖安排另行通知。",
+      "eligibility": [
+        "仅限该赛项全国总决赛入围团队",
+        "团队至少1位指导教师、2位学生"
+      ],
+      "deliverables": [
+        "11/6前填写参赛回执表",
+        "具体作品及答辩材料按通知附件3竞赛办法细则"
+      ],
+      "milestones": [
+        {
+          "name": "参赛回执须在此前填写",
+          "date": "2026-11-06"
+        },
+        {
+          "name": "会务费须在此前汇款",
+          "date": "2026-11-09"
+        },
+        {
+          "name": "线上国赛",
+          "date": "2026-11-15"
+        }
+      ],
+      "entry_url": "https://docs.qq.com/form/page/DRXdEYkt6UW5YcVdi",
+      "fees": "会务费1500元/人；通知要求团队至少1名指导教师和2名学生。",
+      "notes": [
+        "官网于2026-10-15 16:19发布，属于今日新公告",
+        "这是入围团队确认参赛，不是开放新选手报名；原清单大学生组具体认定以学院为准",
+        "包含今日发布的官方通知；此标记不表示已完成跨日差异比对。"
+      ],
+      "sources": [
+        {
+          "url": "https://3dds.3ddl.net/index.php?ctl=Informationlist&id=751&met=newsdetails",
+          "title": "2026第19届全国3D大赛AMD杯AI+3D创新应用大赛全国总决赛通知",
+          "published_date": "2026-10-15",
+          "kind": "organizer"
+        }
+      ],
+      "track_requirements": [],
+      "key": "49:2026:AMD杯AI+3D全国总决赛",
+      "verified_as_of": "2026-10-15T22:43:24.310518+08:00",
+      "content_rechecked_on": "2026-10-16",
+      "status": "upcoming",
+      "accepting_registration": false,
+      "deadlines": [],
+      "catalog_names": [
+        "全国三维数字化创新设计大赛（大学生组）"
+      ],
+      "levels": [
+        "B类"
+      ],
+      "level_conflict": false,
+      "name_mapping_unconfirmed": true
+    },
+    {
+      "competition_ids": [
+        49
+      ],
+      "edition": "2026第19届·数马&华教杯增减材复合制造及数字孪生技术创新应用大赛全国总决赛",
+      "title": "全国三维数字化创新设计大赛（大学生组）",
+      "track": "数马&华教杯全国总决赛",
+      "registration_start": null,
+      "registration_end": null,
+      "competition_start": "2026-11-07",
+      "competition_end": "2026-11-08",
+      "submission_deadline": null,
+      "participation_mode": "offline",
+      "mode_details": "兰州理工大学现场竞赛及答辩，配套论坛和颁奖。",
+      "eligibility": [
+        "限该赛项全国总决赛参赛师生；每队1–2名指导教师和3名学生"
+      ],
+      "deliverables": [
+        "10/30前填写总决赛参赛回执",
+        "任务作品和设备要求按通知附件3竞赛任务书"
+      ],
+      "milestones": [
+        {
+          "name": "参赛回执须在此前填写",
+          "date": "2026-10-30"
+        },
+        {
+          "name": "会务费须在此前汇款",
+          "date": "2026-11-01"
+        },
+        {
+          "name": "线下总决赛开始",
+          "date": "2026-11-07"
+        }
+      ],
+      "entry_url": "https://docs.qq.com/form/page/DR1hJZVhrd1ZoaGdx",
+      "fees": "会务费1500元/人；往返交通食宿自理。",
+      "notes": [
+        "通知落款10/12，网页发布10/14；不是开放新选手报名",
+        "活动对象段要求1–2教师和3学生，费用段称至少1教师2学生参会；人员安排需向组委会核对"
+      ],
+      "sources": [
+        {
+          "url": "https://3dds.3ddl.net/index.php?ctl=Informationlist&id=750&met=newsdetails",
+          "title": "2026第19届全国3D大赛数马&华教杯全国总决赛暨论坛通知",
+          "published_date": "2026-10-14",
+          "kind": "organizer"
+        }
+      ],
+      "track_requirements": [],
+      "key": "49:2026:数马&华教杯全国总决赛",
+      "verified_as_of": "2026-10-15T22:43:24.310518+08:00",
+      "content_rechecked_on": "2026-10-16",
+      "status": "upcoming",
+      "accepting_registration": false,
+      "deadlines": [],
+      "catalog_names": [
+        "全国三维数字化创新设计大赛（大学生组）"
+      ],
+      "levels": [
+        "B类"
+      ],
+      "level_conflict": false,
+      "name_mapping_unconfirmed": false
+    },
+    {
+      "competition_ids": [
+        52
+      ],
+      "edition": "第十七届·2026第九届传智杯赛道",
+      "title": "全国大学生计算机应用能力与信息素养大赛",
+      "track": "传智杯专业信息技术赛道",
+      "registration_start": "2026-09-01",
+      "registration_end": "2026-11-18",
+      "competition_start": null,
+      "competition_end": null,
+      "submission_deadline": null,
+      "participation_mode": "unknown",
+      "mode_details": "已核验高校通知未明确线上/线下，各赛项具体时间与方式待官方通知。",
+      "eligibility": [
+        "全国高校研究生及本科、专科所有年级学生",
+        "分研究生组、A组（985/211）、B组（本科院校）、C组（高职高专）；只能当前组或向更高组报名",
+        "不同赛项采用个人赛或团队赛：已核实AI创新应用、AI大模型为个人；AIoT、AI Web、AI智能测试为团队。具体人数及校赛选拔以本校和官方赛项规则为准。"
+      ],
+      "deliverables": [
+        "程序设计挑战赛：个人按ACM赛制完成算法编程答题；Java、C/C++、Python至少掌握一种，具体提交规则依该赛项说明。",
+        "AI创新应用挑战赛（个人）：代码仓库、完整Git历史、AI对话/Prompt快照、README、5–8分钟MP4演示视频及不超过30页PDF技术文档。",
+        "AI大模型创新应用挑战赛（个人）：代码仓库、README及环境说明、Git历史、5–8分钟演示视频、PDF技术文档和可公网访问的演示地址。",
+        "AI WEB网页开发挑战赛（团队）：代码仓库、README和环境说明、Git历史、5–8分钟演示视频及PDF技术文档。",
+        "AIoT嵌入式系统创新大赛、AI赋能智能测试创新挑战赛（团队）：不超过200MB的ZIP作品包；分别含介绍/照片/原理图或测试用例/执行记录，演示视频上传公开平台并提交链接。"
+      ],
+      "milestones": [],
+      "entry_url": "http://dasai.ityxb.com/",
+      "fees": null,
+      "notes": [
+        "官网明确自2024年第十四届更名为全国大学生计算机应用能力与数字素养大赛，原清单旧名保留；学院更名后的认可仍需确认",
+        "本条仅为第九届传智杯赛道，不代表全部赛道同日截止",
+        "省赛2026年11月、国赛12月，具体日期另行通知；已补5项开发类省赛材料标准和程序设计赛制，其余赛项材料仍待逐条核验。",
+        "开发类材料依据东莞理工学院9/20校赛通知明确转述的省赛提交标准；其10/11校内报名及11/7校内作品截止仅适用该校，不作为全国期限。代码仓库须公开或提供评审访问权限，不得一次性提交全部代码。",
+        "主办方现有官网 https://www.boxuegu.com/match/ 的第九届日程仅列7–11月报名期，西安交大10/9通知列9/1–11/18；精确全国开始与各赛项截止有待与主办方核对，11/18暂保留为高校通知口径。"
+      ],
+      "sources": [
+        {
+          "url": "https://www.51ds.org.cn/page162?article_id=8",
+          "title": "大赛介绍（官方更名说明）",
+          "published_date": "2025-09-21",
+          "kind": "organizer"
+        },
+        {
+          "url": "https://jwc.xjtu.edu.cn/info/1172/10505.htm",
+          "title": "关于组织全国大学生计算机应用能力与数字素养大赛暨第九届传智杯报名的通知",
+          "published_date": "2026-10-09",
+          "kind": "university"
+        },
+        {
+          "url": "https://cs.dgut.edu.cn/info/1034/19118.htm",
+          "title": "第九届传智杯开发类赛事校内选拔赛（明确转述省赛材料标准）",
+          "published_date": "2026-09-20",
+          "kind": "university"
+        },
+        {
+          "url": "https://dw.zjtu.edu.cn/content/tzgs/202610/2463.html",
+          "title": "黄河交通学院关于举办2026第九届传智杯大赛的通知",
+          "published_date": "2026-10-09",
+          "kind": "university"
+        },
+        {
+          "url": "https://www.boxuegu.com/match/",
+          "title": "第九届传智杯主办方官网",
+          "published_date": null,
+          "kind": "organizer"
+        }
+      ],
+      "track_requirements": [],
+      "key": "52:2026:传智杯专业信息技术赛道",
+      "verified_as_of": "2026-10-15T22:43:24.310518+08:00",
+      "content_rechecked_on": "2026-10-16",
+      "status": "registration_open",
+      "accepting_registration": true,
+      "deadlines": [],
+      "catalog_names": [
+        "全国大学生计算机应用能力与信息素养大赛"
+      ],
+      "levels": [
+        "B类"
+      ],
+      "level_conflict": false,
+      "name_mapping_unconfirmed": true
+    },
+    {
+      "competition_ids": [
+        36
+      ],
+      "edition": "2026年第23届·密码安全赛",
+      "title": "全国大学生信息安全与对抗技术竞赛",
+      "track": "密码安全赛",
+      "registration_start": null,
+      "registration_end": "2026-10-23",
+      "competition_start": "2026-11-07",
+      "competition_end": "2026-11-08",
+      "submission_deadline": null,
+      "participation_mode": "offline",
+      "mode_details": "区域赛11/7、总决赛11/8均线下；总决赛在北京市昌平区中央财经大学沙河校区大学生活动中心。",
+      "eligibility": [
+        "全国高校全日制本专科生、高职学生",
+        "同校组队每队最多3人、最多1名指导教师，每校最多晋级3队",
+        "必须经校级选拔，晋级比例不超过50%，提交晋级证明"
+      ],
+      "deliverables": [
+        "系统填写报名信息，报名表和参赛承诺书",
+        "校级赛晋级证明",
+        "线下报到携带学生证、身份证及校/院/教务处盖章报名表"
+      ],
+      "milestones": [
+        {
+          "name": "线下区域赛",
+          "date": "2026-11-07"
+        },
+        {
+          "name": "线下总决赛",
+          "date": "2026-11-08"
+        }
+      ],
+      "entry_url": "https://information.isclab.org.cn/",
+      "fees": "不收报名费，交通食宿自理。",
+      "notes": [
+        "该赛项不面向研究生；本条仅指密码安全赛，不代表全部ISCC赛项",
+        "报名截止官方只写日期，未明确时刻",
+        "核验当日已有本届正式报名通知，截止尚未到达；开始日期未明确，未据发布日期补造。"
+      ],
+      "sources": [
+        {
+          "url": "https://www.isclab.org.cn/2026/09/08/2026年第23届信息安全与对抗技术竞赛通知-密码安全/",
+          "title": "2026年第23届信息安全与对抗技术竞赛通知—密码安全赛",
+          "published_date": "2026-09-08",
+          "kind": "organizer"
+        }
+      ],
+      "current_phase": "校级赛（9–10月，具体校赛日期依所在学校）",
+      "track_requirements": [],
+      "key": "36:2026:密码安全赛",
+      "verified_as_of": "2026-10-15T22:43:24.310518+08:00",
+      "content_rechecked_on": "2026-10-16",
+      "status": "in_progress",
+      "accepting_registration": true,
+      "deadlines": [],
+      "catalog_names": [
+        "全国大学生信息安全与对抗技术竞赛"
+      ],
+      "levels": [
+        "A类"
+      ],
+      "level_conflict": false,
+      "name_mapping_unconfirmed": false,
+      "phase_period": {
+        "start": "2026-09",
+        "end": "2026-10"
+      }
+    },
+    {
+      "competition_ids": [
+        36
+      ],
+      "edition": "2026年第23届·智能安全赛",
+      "title": "全国大学生信息安全与对抗技术竞赛",
+      "track": "智能安全赛",
+      "registration_start": null,
+      "registration_end": null,
+      "competition_start": null,
+      "competition_end": null,
+      "submission_deadline": null,
+      "participation_mode": "hybrid",
+      "mode_details": "10月区域赛、国赛预选赛线上线下结合；11月国赛总决赛线下，浙江金华武义县科技城；具体日期以续通知为准。",
+      "eligibility": [
+        "全国全日制本专科生、研究生，两个学历组不能混合组队",
+        "每队1–3人、指导教师1人，中文队名；选手只能一队，一队一赛项",
+        "须参加校赛并上传校级赛成绩证明"
+      ],
+      "deliverables": [
+        "学生及指导教师签名的原创性声明",
+        "盖院所/主管部门/单位公章且与系统一致的报名表",
+        "校级赛成绩证明",
+        "线下携学生证、身份证和盖章报名表；未全员到场需说明文件；线上需全体队员同屏入镜"
+      ],
+      "milestones": [],
+      "entry_url": "https://information.isclab.org.cn/",
+      "fees": null,
+      "notes": [
+        "总通知报名2026年8–10月，未明确统一开始/截止日期；不能保证所有子赛10/15仍可新报名",
+        "10月区域赛及国赛预选正在赛期内，具体子赛日程在附件或后续通知，未逐项核验",
+        "9/10另发15类子赛规则及网盘附件，需按所报子赛核对设备和作品要求"
+      ],
+      "sources": [
+        {
+          "url": "https://www.isclab.org.cn/2026/09/04/2026年第23届信息安全与对抗技术竞赛通知-智能安全/",
+          "title": "2026年第23届信息安全与对抗技术竞赛通知–智能安全赛",
+          "published_date": "2026-09-04",
+          "kind": "organizer"
+        },
+        {
+          "url": "https://www.isclab.org.cn/2026/09/10/2026年第23届信息安全与对抗技术竞赛-智能安全赛/",
+          "title": "智能安全赛赛项要求通知及报名入口",
+          "published_date": "2026-09-10",
+          "kind": "organizer"
+        }
+      ],
+      "current_phase": "10月区域赛及国赛预选赛（具体子赛日期未核验）",
+      "track_requirements": [],
+      "key": "36:2026:智能安全赛",
+      "verified_as_of": "2026-10-15T22:43:24.310518+08:00",
+      "content_rechecked_on": "2026-10-16",
+      "status": "in_progress",
+      "accepting_registration": false,
+      "deadlines": [],
+      "catalog_names": [
+        "全国大学生信息安全与对抗技术竞赛"
+      ],
+      "levels": [
+        "A类"
+      ],
+      "level_conflict": false,
+      "name_mapping_unconfirmed": false,
+      "phase_period": {
+        "start": "2026-10",
+        "end": "2026-10"
+      }
+    },
+    {
+      "competition_ids": [
+        38
+      ],
+      "edition": "2026年第八届·算法应用赛道（赛马制）·无人系统等8项赛题",
+      "title": "全球校园人工智能算法精英大赛",
+      "track": "算法应用赛道（赛马制）·无人系统等8项赛题",
+      "registration_start": "2026-04-28",
+      "registration_end": "2026-10-20T20:00:00+08:00",
+      "competition_start": "2026-11-01",
+      "competition_end": "2026-11-15",
+      "submission_deadline": null,
+      "participation_mode": "unknown",
+      "mode_details": "日程通知明确复赛、总决赛具体线上/线下方式在报名结束后另行发布，不能默认线上。",
+      "eligibility": [
+        "全球高校、科研机构正式学籍在读研究生、本科生、专科生",
+        "单人或本校（不含分校）组队，1–3名选手，最多2名指导教师；禁止跨校；同一赛题每人只能加入一队",
+        "作品须为本届期间原创，各子赛实体平台和技术要求见下列规则"
+      ],
+      "deliverables": [
+        "无人车视觉巡航赛：认证包：机器人尺寸/测量视频、详细硬件介绍、软件架构及方案、硬件原理图、源码、设计文件，压缩后邮件提交并写队伍/院校/成员/赛题信息",
+        "无人车视觉巡航赛：认证截止：实际复赛举办日前7个自然日17:00；比赛完成任务后按裁判要求提交技术文档或答辩",
+        "无人车视觉巡航赛：实体机器人自主识别、巡航和语音播报；按规则准备场地挡板；具体复赛提交细则在赛前会发布",
+        "无人车任务挑战赛：认证包：机器人尺寸/测量视频、详细硬件介绍、软件架构及方案、硬件原理图、源码、设计文件，压缩后邮件提交并写队伍/院校/成员/赛题信息",
+        "无人车任务挑战赛：认证截止：实际复赛举办日前7个自然日17:00；比赛完成任务后按裁判要求提交技术文档或答辩",
+        "无人车任务挑战赛：实体机器人完成图像识别、导航与任务靶标操作；单局2分钟，取两次较高分",
+        "空中机器人巡检任务挑战赛：认证包：机器人尺寸/照片、硬件介绍含电路原理图与软件、源码和设计文件，邮件压缩提交；实际复赛前7日17:00截止",
+        "空中机器人巡检任务挑战赛：实体无人机自主穿窗、导航、识别并灯光定位；须准备符合参数的飞行平台",
+        "无人车自动驾驶任务挑战赛：认证包：机器人尺寸/测量视频、详细硬件介绍、软件架构及方案、硬件原理图、源码、设计文件，压缩后邮件提交并写队伍/院校/成员/赛题信息",
+        "无人车自动驾驶任务挑战赛：认证截止：实际复赛举办日前7个自然日17:00；比赛完成任务后按裁判要求提交技术文档或答辩",
+        "无人车自动驾驶任务挑战赛：实体机器人完成识灯、转向、避障、侧方停车与倒车等任务；技术文档或现场答辩",
+        "无人系统算法应用创新赛：认证压缩包：尺寸测量视频、硬件/软件方案、原理图、源码及设计文件，实际复赛前7日17:00邮件提交",
+        "无人系统算法应用创新赛：作品须含效果演示视频、算法方案讲解视频、算法源码、技术文档和设计方案PPT，自行设计机器人集群场景"
+      ],
+      "milestones": [],
+      "entry_url": "https://reg.aicomp.cn/",
+      "fees": null,
+      "notes": [
+        "本条覆盖赛题：无人车视觉巡航、无人车任务挑战、地空机器人任务、空中机器人巡检、无人车物流搬运、无人车自动驾驶、空中机器人物流搬运、无人系统算法应用创新",
+        "总决赛安排2026年12月，具体日期待通知",
+        "10/15 20:00赛区制省赛截止不适用于本条赛马制",
+        "已读以下子赛官方规则并列出具体作品/设备；其余子赛规则仍需继续补齐。赛前追加通知可能细化提交时刻及方式。"
+      ],
+      "sources": [
+        {
+          "url": "https://www.aicomp.cn/notice/5229.html",
+          "title": "第八届AIC算法应用赛道（赛马制赛题）竞赛日程通知",
+          "published_date": "2026-09-07",
+          "kind": "organizer"
+        },
+        {
+          "url": "https://www.aicomp.cn/wp-content/uploads/2026/05/1无人车视觉巡航赛.pdf",
+          "title": "无人车视觉巡航赛官方赛题规则",
+          "published_date": null,
+          "kind": "organizer"
+        },
+        {
+          "url": "https://www.aicomp.cn/wp-content/uploads/2026/05/2无人车任务挑战赛.pdf",
+          "title": "无人车任务挑战赛官方赛题规则",
+          "published_date": null,
+          "kind": "organizer"
+        },
+        {
+          "url": "https://www.aicomp.cn/wp-content/uploads/2026/05/4空中机器人巡检任务挑战赛.pdf",
+          "title": "空中机器人巡检任务挑战赛官方赛题规则",
+          "published_date": null,
+          "kind": "organizer"
+        },
+        {
+          "url": "https://www.aicomp.cn/wp-content/uploads/2026/05/6无人车自动驾驶任务挑战赛.pdf",
+          "title": "无人车自动驾驶任务挑战赛官方赛题规则",
+          "published_date": null,
+          "kind": "organizer"
+        },
+        {
+          "url": "https://www.aicomp.cn/wp-content/uploads/2026/05/8无人系统算法应用创新赛.pdf",
+          "title": "无人系统算法应用创新赛官方赛题规则",
+          "published_date": null,
+          "kind": "organizer"
+        },
+        {
+          "url": "https://www.aicomp.cn/notice/notice-1/3655.html",
+          "title": "第八届AIC算法应用赛道竞赛通知",
+          "published_date": "2026-04-29",
+          "kind": "organizer"
+        }
+      ],
+      "track_requirements": [
+        {
+          "name": "无人车视觉巡航赛",
+          "mode": "unknown",
+          "mode_details": "赛题规则已有线上/线下条件规则，最终采用方式以赛前通知为准。",
+          "eligibility": [
+            "通用资格：1–3名同校在读学生，最多2名指导教师（算法应用赛道通知）。",
+            "须准备符合参数要求的实体机器人，自制平台需赛题负责人书面确认；完成平台认证方可检录"
+          ],
+          "deliverables": [
+            "认证包：机器人尺寸/测量视频、详细硬件介绍、软件架构及方案、硬件原理图、源码、设计文件，压缩后邮件提交并写队伍/院校/成员/赛题信息",
+            "认证截止：实际复赛举办日前7个自然日17:00；比赛完成任务后按裁判要求提交技术文档或答辩",
+            "实体机器人自主识别、巡航和语音播报；按规则准备场地挡板；具体复赛提交细则在赛前会发布"
+          ]
+        },
+        {
+          "name": "无人车任务挑战赛",
+          "mode": "unknown",
+          "mode_details": "赛题规则已有线上/线下条件规则，最终采用方式以赛前通知为准。",
+          "eligibility": [
+            "通用资格：1–3名同校在读学生，最多2名指导教师（算法应用赛道通知）。",
+            "须准备符合参数要求的实体机器人，自制平台需赛题负责人书面确认；完成平台认证方可检录"
+          ],
+          "deliverables": [
+            "认证包：机器人尺寸/测量视频、详细硬件介绍、软件架构及方案、硬件原理图、源码、设计文件，压缩后邮件提交并写队伍/院校/成员/赛题信息",
+            "认证截止：实际复赛举办日前7个自然日17:00；比赛完成任务后按裁判要求提交技术文档或答辩",
+            "实体机器人完成图像识别、导航与任务靶标操作；单局2分钟，取两次较高分"
+          ]
+        },
+        {
+          "name": "空中机器人巡检任务挑战赛",
+          "mode": "unknown",
+          "mode_details": "赛题规则已有线上/线下条件规则，最终采用方式以赛前通知为准。",
+          "eligibility": [
+            "通用资格：1–3名同校在读学生，最多2名指导教师（算法应用赛道通知）。",
+            "四旋翼实体无人机；禁止GPS/RTK/UWB定位，自制平台需确认及认证"
+          ],
+          "deliverables": [
+            "认证包：机器人尺寸/照片、硬件介绍含电路原理图与软件、源码和设计文件，邮件压缩提交；实际复赛前7日17:00截止",
+            "实体无人机自主穿窗、导航、识别并灯光定位；须准备符合参数的飞行平台"
+          ]
+        },
+        {
+          "name": "无人车自动驾驶任务挑战赛",
+          "mode": "unknown",
+          "mode_details": "赛题规则已有线上/线下条件规则，最终采用方式以赛前通知为准。",
+          "eligibility": [
+            "通用资格：1–3名同校在读学生，最多2名指导教师（算法应用赛道通知）。",
+            "须准备符合参数要求的实体机器人，自制平台需赛题负责人书面确认；完成平台认证方可检录"
+          ],
+          "deliverables": [
+            "认证包：机器人尺寸/测量视频、详细硬件介绍、软件架构及方案、硬件原理图、源码、设计文件，压缩后邮件提交并写队伍/院校/成员/赛题信息",
+            "认证截止：实际复赛举办日前7个自然日17:00；比赛完成任务后按裁判要求提交技术文档或答辩",
+            "实体机器人完成识灯、转向、避障、侧方停车与倒车等任务；技术文档或现场答辩"
+          ]
+        },
+        {
+          "name": "无人系统算法应用创新赛",
+          "mode": "unknown",
+          "mode_details": "赛题规则已有线上/线下条件规则，最终采用方式以赛前通知为准。",
+          "eligibility": [
+            "通用资格：1–3名同校在读学生，最多2名指导教师（算法应用赛道通知）。",
+            "实体机器人集群，地面/空中/陆空协同任选；平台须按对应机器人赛题参数认证"
+          ],
+          "deliverables": [
+            "认证压缩包：尺寸测量视频、硬件/软件方案、原理图、源码及设计文件，实际复赛前7日17:00邮件提交",
+            "作品须含效果演示视频、算法方案讲解视频、算法源码、技术文档和设计方案PPT，自行设计机器人集群场景"
+          ]
+        }
+      ],
+      "key": "38:2026:算法应用赛道（赛马制）·无人系统等8项赛题",
+      "verified_as_of": "2026-10-15T22:43:24.310518+08:00",
+      "content_rechecked_on": "2026-10-16",
+      "status": "registration_open",
+      "accepting_registration": true,
+      "deadlines": [
+        {
+          "name": "报名截止",
+          "date": "2026-10-20T20:00:00+08:00",
+          "days_left": 5
+        }
+      ],
+      "catalog_names": [
+        "全球校园人工智能算法精英大赛"
+      ],
+      "levels": [
+        "A类"
+      ],
+      "level_conflict": false,
+      "name_mapping_unconfirmed": false
+    },
+    {
+      "competition_ids": [
+        38
+      ],
+      "edition": "2026年第八届·算法应用赛道（赛马制）·智能车视觉规划等4项赛题",
+      "title": "全球校园人工智能算法精英大赛",
+      "track": "算法应用赛道（赛马制）·智能车视觉规划等4项赛题",
+      "registration_start": "2026-04-28",
+      "registration_end": "2026-10-24T20:00:00+08:00",
+      "competition_start": null,
+      "competition_end": null,
+      "submission_deadline": null,
+      "participation_mode": "unknown",
+      "mode_details": "日程通知明确复赛、总决赛具体线上/线下方式在报名结束后另行发布，不能默认线上。",
+      "eligibility": [
+        "全球高校、科研机构正式学籍在读研究生、本科生、专科生",
+        "单人或本校（不含分校）组队，1–3名选手，最多2名指导教师；禁止跨校；同一赛题每人只能加入一队",
+        "作品须为本届期间原创，各子赛实体平台和技术要求见下列规则"
+      ],
+      "deliverables": [
+        "智能体对抗挑战赛：实体机器人完成自主路径规划、决策和对抗任务；复赛规则分别规定线上赛和线下赛，国赛含小组赛及淘汰赛",
+        "智能授粉：总决赛交技术文档、软件源码；报告说明系统架构、核心算法和创新点",
+        "智能授粉：如线上赛，另交一镜到底的机器人自主运行/识别播报视频，源码以压缩包提交"
+      ],
+      "milestones": [],
+      "entry_url": "https://reg.aicomp.cn/",
+      "fees": null,
+      "notes": [
+        "本条覆盖赛题：智能车视觉规划、空地协同侦排、智能体对抗、智能授粉",
+        "总决赛安排2026年12月，具体日期待通知",
+        "10/15 20:00赛区制省赛截止不适用于本条赛马制",
+        "已读以下子赛官方规则并列出具体作品/设备；其余子赛规则仍需继续补齐。赛前追加通知可能细化提交时刻及方式。"
+      ],
+      "sources": [
+        {
+          "url": "https://www.aicomp.cn/notice/5229.html",
+          "title": "第八届AIC算法应用赛道（赛马制赛题）竞赛日程通知",
+          "published_date": "2026-09-07",
+          "kind": "organizer"
+        },
+        {
+          "url": "https://www.aicomp.cn/wp-content/uploads/2026/05/16智能体对抗挑战赛.pdf",
+          "title": "智能体对抗挑战赛官方赛题规则",
+          "published_date": null,
+          "kind": "organizer"
+        },
+        {
+          "url": "https://www.aicomp.cn/wp-content/uploads/2026/06/17智能授粉-1.pdf",
+          "title": "智能授粉官方赛题规则",
+          "published_date": null,
+          "kind": "organizer"
+        },
+        {
+          "url": "https://www.aicomp.cn/notice/notice-1/3655.html",
+          "title": "第八届AIC算法应用赛道竞赛通知",
+          "published_date": "2026-04-29",
+          "kind": "organizer"
+        }
+      ],
+      "track_requirements": [
+        {
+          "name": "智能体对抗挑战赛",
+          "mode": "unknown",
+          "mode_details": "赛题规则已有线上/线下条件规则，最终采用方式以赛前通知为准。",
+          "eligibility": [
+            "通用资格：1–3名同校在读学生，最多2名指导教师（算法应用赛道通知）。",
+            "准备实体轮式/履带机器人：长≤300mm、宽≤250mm、高≤250mm、≤5kg；自制平台报名截止前一周内书面确认",
+            "主控算力≤20TOPS、内存≤16GB，允许离线训练，禁止云端实时计算/在线推理"
+          ],
+          "deliverables": [
+            "实体机器人完成自主路径规划、决策和对抗任务；复赛规则分别规定线上赛和线下赛，国赛含小组赛及淘汰赛"
+          ]
+        },
+        {
+          "name": "智能授粉",
+          "mode": "unknown",
+          "mode_details": "总决赛一般以线下为主；不可抗力时以组委会通知为准，规则同时保留线上规范。",
+          "eligibility": [
+            "通用资格：1–3名同校在读学生，最多2名指导教师（算法应用赛道通知）。",
+            "实体机器人和无人机投影均≤400×400mm，需语音模块，自主完成任务",
+            "禁麦克纳姆轮、全向轮和履带底盘；CPU≤2GHz、INT8算力≤3T，电池≤12.6V"
+          ],
+          "deliverables": [
+            "总决赛交技术文档、软件源码；报告说明系统架构、核心算法和创新点",
+            "如线上赛，另交一镜到底的机器人自主运行/识别播报视频，源码以压缩包提交"
+          ]
+        }
+      ],
+      "key": "38:2026:算法应用赛道（赛马制）·智能车视觉规划等4项赛题",
+      "verified_as_of": "2026-10-15T22:43:24.310518+08:00",
+      "content_rechecked_on": "2026-10-16",
+      "status": "registration_open",
+      "accepting_registration": true,
+      "deadlines": [],
+      "catalog_names": [
+        "全球校园人工智能算法精英大赛"
+      ],
+      "levels": [
+        "A类"
+      ],
+      "level_conflict": false,
+      "name_mapping_unconfirmed": false
+    },
+    {
+      "competition_ids": [
+        38
+      ],
+      "edition": "2026年第八届·算法应用赛道（赛马制）·脑电信号特征提取与识别",
+      "title": "全球校园人工智能算法精英大赛",
+      "track": "算法应用赛道（赛马制）·脑电信号特征提取与识别",
+      "registration_start": "2026-04-28",
+      "registration_end": "2026-11-05T20:00:00+08:00",
+      "competition_start": null,
+      "competition_end": null,
+      "submission_deadline": null,
+      "participation_mode": "unknown",
+      "mode_details": "算法结果和报告线上提交，一等奖候选须线下复核；所属批次总模式仍保留待赛期通知。",
+      "eligibility": [
+        "全球高校、科研机构正式学籍在读研究生、本科生、专科生",
+        "单人或本校（不含分校）组队，1–3名选手，最多2名指导教师；禁止跨校；同一赛题每人只能加入一队",
+        "作品须为本届期间原创，各子赛实体平台和技术要求见下列规则"
+      ],
+      "deliverables": [
+        "脑电信号特征提取与识别：复赛：不可改文件名的标准Excel识别结果+技术报告，交报名系统并发网盘链接至719972971@qq.com，包含队名/编号/队长信息",
+        "脑电信号特征提取与识别：国赛：再交PPT及讲解视频，总时长≤10分钟，展示运行过程或关键实验结果",
+        "脑电信号特征提取与识别：正式数据提前4小时发加密包，开赛解密，开赛后4小时截止结果；一等奖候选须参加线下复核，否则取消总决赛成绩"
+      ],
+      "milestones": [],
+      "entry_url": "https://reg.aicomp.cn/",
+      "fees": null,
+      "notes": [
+        "本条覆盖赛题：脑电信号特征提取与识别",
+        "总决赛安排2026年12月，具体日期待通知",
+        "10/15 20:00赛区制省赛截止不适用于本条赛马制",
+        "已读以下子赛官方规则并列出具体作品/设备；其余子赛规则仍需继续补齐。赛前追加通知可能细化提交时刻及方式。"
+      ],
+      "sources": [
+        {
+          "url": "https://www.aicomp.cn/notice/5229.html",
+          "title": "第八届AIC算法应用赛道（赛马制赛题）竞赛日程通知",
+          "published_date": "2026-09-07",
+          "kind": "organizer"
+        },
+        {
+          "url": "https://www.aicomp.cn/wp-content/uploads/2026/08/13脑电信号特征提取与识别_最终版.pdf",
+          "title": "脑电信号特征提取与识别官方赛题规则",
+          "published_date": null,
+          "kind": "organizer"
+        },
+        {
+          "url": "https://www.aicomp.cn/notice/notice-1/3655.html",
+          "title": "第八届AIC算法应用赛道竞赛通知",
+          "published_date": "2026-04-29",
+          "kind": "organizer"
+        }
+      ],
+      "track_requirements": [
+        {
+          "name": "脑电信号特征提取与识别",
+          "mode": "hybrid",
+          "mode_details": "结果与报告在线提交；总决赛一等奖候选另须参加线下复核，不能按全程线上准备。",
+          "eligibility": [
+            "通用资格：1–3名同校在读学生，最多2名指导教师（算法应用赛道通知）。",
+            "遵循总规则，算法及配套工具独立编程，不得以第三方成品算法替代自主实现",
+            "队长报名前须加入官方QQ群100628255"
+          ],
+          "deliverables": [
+            "复赛：不可改文件名的标准Excel识别结果+技术报告，交报名系统并发网盘链接至719972971@qq.com，包含队名/编号/队长信息",
+            "国赛：再交PPT及讲解视频，总时长≤10分钟，展示运行过程或关键实验结果",
+            "正式数据提前4小时发加密包，开赛解密，开赛后4小时截止结果；一等奖候选须参加线下复核，否则取消总决赛成绩"
+          ]
+        }
+      ],
+      "key": "38:2026:算法应用赛道（赛马制）·脑电信号特征提取与识别",
+      "verified_as_of": "2026-10-15T22:43:24.310518+08:00",
+      "content_rechecked_on": "2026-10-16",
+      "status": "registration_open",
+      "accepting_registration": true,
+      "deadlines": [],
+      "catalog_names": [
+        "全球校园人工智能算法精英大赛"
+      ],
+      "levels": [
+        "A类"
+      ],
+      "level_conflict": false,
+      "name_mapping_unconfirmed": false
+    },
+    {
+      "competition_ids": [
+        38
+      ],
+      "edition": "2026年第八届·算法应用赛道（赛马制）·具身智能等3项赛题",
+      "title": "全球校园人工智能算法精英大赛",
+      "track": "算法应用赛道（赛马制）·具身智能等3项赛题",
+      "registration_start": "2026-04-28",
+      "registration_end": "2026-11-15T20:00:00+08:00",
+      "competition_start": "2026-11-15",
+      "competition_end": "2026-11-30",
+      "submission_deadline": null,
+      "participation_mode": "unknown",
+      "mode_details": "日程通知明确复赛、总决赛具体线上/线下方式在报名结束后另行发布，不能默认线上。",
+      "eligibility": [
+        "全球高校、科研机构正式学籍在读研究生、本科生、专科生",
+        "单人或本校（不含分校）组队，1–3名选手，最多2名指导教师；禁止跨校；同一赛题每人只能加入一队",
+        "作品须为本届期间原创，各子赛实体平台和技术要求见下列规则"
+      ],
+      "deliverables": [
+        "人形机器人协作挑战赛：实体机器人协作完成“星际采矿”；线上时须腾讯会议固定+移动双机位、全程录屏，出示身份证/学生证",
+        "人形机器人协作挑战赛：线下时现场携机器人调试参赛；每场限时10分钟"
+      ],
+      "milestones": [],
+      "entry_url": "https://reg.aicomp.cn/",
+      "fees": null,
+      "notes": [
+        "本条覆盖赛题：人形机器人协作挑战、具身智能机器人场景应用挑战、具身智能机器人任务挑战",
+        "总决赛安排2026年12月，具体日期待通知",
+        "10/15 20:00赛区制省赛截止不适用于本条赛马制",
+        "已读以下子赛官方规则并列出具体作品/设备；其余子赛规则仍需继续补齐。赛前追加通知可能细化提交时刻及方式。"
+      ],
+      "sources": [
+        {
+          "url": "https://www.aicomp.cn/notice/5229.html",
+          "title": "第八届AIC算法应用赛道（赛马制赛题）竞赛日程通知",
+          "published_date": "2026-09-07",
+          "kind": "organizer"
+        },
+        {
+          "url": "https://www.aicomp.cn/wp-content/uploads/2026/05/9人形机器人协作挑战赛-1.pdf",
+          "title": "人形机器人协作挑战赛官方赛题规则",
+          "published_date": null,
+          "kind": "organizer"
+        },
+        {
+          "url": "https://www.aicomp.cn/notice/notice-1/3655.html",
+          "title": "第八届AIC算法应用赛道竞赛通知",
+          "published_date": "2026-04-29",
+          "kind": "organizer"
+        }
+      ],
+      "track_requirements": [
+        {
+          "name": "人形机器人协作挑战赛",
+          "mode": "unknown",
+          "mode_details": "规则分别给出线上和线下流程；采用方式在报名截止后通知。",
+          "eligibility": [
+            "通用资格：1–3名同校在读学生，最多2名指导教师（算法应用赛道通知）。",
+            "准备2台机器人联盟；类人双足步态，身高≤45cm，电池≤8.6V，经组委会确认"
+          ],
+          "deliverables": [
+            "实体机器人协作完成“星际采矿”；线上时须腾讯会议固定+移动双机位、全程录屏，出示身份证/学生证",
+            "线下时现场携机器人调试参赛；每场限时10分钟"
+          ]
+        }
+      ],
+      "key": "38:2026:算法应用赛道（赛马制）·具身智能等3项赛题",
+      "verified_as_of": "2026-10-15T22:43:24.310518+08:00",
+      "content_rechecked_on": "2026-10-16",
+      "status": "registration_open",
+      "accepting_registration": true,
+      "deadlines": [],
+      "catalog_names": [
+        "全球校园人工智能算法精英大赛"
+      ],
+      "levels": [
+        "A类"
+      ],
+      "level_conflict": false,
+      "name_mapping_unconfirmed": false
+    }
+  ],
+  "content_rechecked_on": "2026-10-16"
+}
