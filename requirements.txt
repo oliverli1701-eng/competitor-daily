@@ -1,4 +1,3 @@
-# 主程序仅使用 Python 3.11+ 标准库。
-# 可选：读取官方 PDF 附件时需要此依赖。
-pypdf
+# Python 3.11+。PDF 清单/附件读取与嵌入中文字体的 PDF 日报导出。
+pypdf>=6.0,<7
 reportlab==4.4.9

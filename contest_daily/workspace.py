@@ -58,7 +58,7 @@ def init_workspace(root, university, college, *, report_title='竞赛日报', ac
     if not (root/'.env').exists():
         (root/'.env').write_text(content, encoding='utf-8')
         (root/'.env').chmod(0o600)
-    (root/'.gitignore').write_text('.env\n.env.*\n!.env.example\ndata/\n__pycache__/\n', encoding='utf-8')
+    (root/'.gitignore').write_text('.env\n.env.*\n!.env.example\ndata/\ninputs/\nresearch/\nconfig/catalog-import.txt\n__pycache__/\n', encoding='utf-8')
     return profile
 
 
