@@ -1,36 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="540" viewBox="0 0 1280 540" role="img" aria-labelledby="title desc">
   <title id="title">Competitor Daily · 竞赛日报机</title>
-  <desc id="desc">Your college. Your competitions. Your tokens. 将学院认可清单变成有官方来源的本地 HTML 与 PDF 竞赛日报。</desc>
-  <defs>
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#213934" stroke-opacity=".045"/></pattern>
-    <filter id="shadow" x="-20%" y="-20%" width="150%" height="160%"><feDropShadow dx="0" dy="16" stdDeviation="18" flood-color="#20362e" flood-opacity=".12"/></filter>
-  </defs>
-  <rect width="1280" height="640" rx="28" fill="#f4f2eb"/>
-  <rect width="1280" height="640" rx="28" fill="url(#grid)"/>
-  <circle cx="1142" cy="85" r="180" fill="#e2e7d6"/><circle cx="1142" cy="85" r="126" fill="none" stroke="#1f3931" stroke-opacity=".09"/>
-  <g font-family="Inter,Arial,'Microsoft YaHei',sans-serif">
-    <g transform="translate(62 50)"><rect width="34" height="34" rx="10" fill="#213c32"/><path d="M10 10H24M10 17H20M10 24H16" stroke="#f4f2eb" stroke-width="2.4" stroke-linecap="round"/><text x="46" y="23" font-size="17" font-weight="700" fill="#213c32">COMPETITOR DAILY</text></g>
-    <rect x="63" y="125" width="220" height="30" rx="15" fill="#e6e9dc"/><circle cx="79" cy="140" r="4" fill="#537b57"/><text x="92" y="145" font-size="11" letter-spacing="1.5" font-weight="700" fill="#365245">OPEN SOURCE · AGENT SKILL</text>
-    <text x="57" y="246" font-size="89" letter-spacing="-5" font-weight="800" fill="#203a30">Your college.</text>
-    <text x="57" y="340" font-size="89" letter-spacing="-5" font-weight="800" fill="#203a30">Your daily<tspan fill="#ec744d">.</tspan></text>
-    <text x="64" y="402" font-size="28" font-weight="600" letter-spacing="1" fill="#203a30">把竞赛清单，变成行动线索。</text>
-    <text x="64" y="440" font-size="17" fill="#6d776d">自己的学院 · 自己的赛事 · 自己的 Token</text>
-    <g transform="translate(64 492)"><rect width="102" height="34" rx="8" fill="#203a30"/><text x="51" y="22" text-anchor="middle" font-size="12" fill="#fff" font-weight="700">LOCAL HTML</text><rect x="112" width="76" height="34" rx="8" fill="#fff" stroke="#d9ded2"/><text x="150" y="22" text-anchor="middle" font-size="12" fill="#203a30" font-weight="700">PDF</text><rect x="198" width="126" height="34" rx="8" fill="#fff" stroke="#d9ded2"/><text x="261" y="22" text-anchor="middle" font-size="12" fill="#203a30" font-weight="700">YOUR BRAND</text></g>
-    <g transform="translate(768 122) rotate(4 220 200)" filter="url(#shadow)">
-      <rect width="438" height="405" rx="18" fill="#fff" stroke="#dce0d4"/>
-      <rect width="438" height="39" rx="18" fill="#edf0e7"/><path d="M0 20H438V39H0Z" fill="#edf0e7"/>
-      <circle cx="20" cy="20" r="4" fill="#c5cbbf"/><circle cx="34" cy="20" r="4" fill="#c5cbbf"/><circle cx="48" cy="20" r="4" fill="#c5cbbf"/><text x="219" y="24" text-anchor="middle" font-size="10" fill="#73816c" letter-spacing="1.1">YOUR COLLEGE / DAILY BRIEFING</text>
-      <text x="28" y="81" font-size="12" fill="#7c8979">示例大学 · 未来技术学院</text>
-      <text x="27" y="117" font-size="28" font-weight="800" fill="#203a30">今天，向前一步。</text>
-      <rect x="28" y="137" width="382" height="1" fill="#e7eadf"/>
-      <g transform="translate(28 158)"><rect width="91" height="28" rx="14" fill="#203a30"/><text x="45" y="18" text-anchor="middle" font-size="11" fill="#fff">正在进行</text><text x="113" y="18" font-size="11" fill="#768171">新开放报名</text><text x="213" y="18" font-size="11" fill="#768171">临近截止</text><text x="307" y="18" font-size="11" fill="#768171">重要更新</text></g>
-      <rect x="28" y="205" width="382" height="102" rx="12" fill="#f7f7f0"/>
-      <rect x="43" y="220" width="59" height="20" rx="5" fill="#e7edd9"/><text x="73" y="234" text-anchor="middle" font-size="10" fill="#43613f">官方来源</text>
-      <text x="43" y="263" font-size="16" font-weight="700" fill="#203a30">你关注的比赛，值得准确信息。</text>
-      <text x="43" y="288" font-size="11" fill="#75806f">报名时间 · 参赛要求 · 提交材料 · 官方链接</text>
-      <g transform="translate(28 326)"><rect width="115" height="49" rx="10" fill="#fff" stroke="#e2e7da"/><text x="14" y="20" font-size="9" fill="#839078">清单可导入</text><text x="14" y="37" font-size="12" font-weight="700" fill="#203a30">PDF / DOCX / CSV</text><rect x="128" width="118" height="49" rx="10" fill="#fff" stroke="#e2e7da"/><text x="142" y="20" font-size="9" fill="#839078">表头可编辑</text><text x="142" y="37" font-size="12" font-weight="700" fill="#203a30">大学 · 学院 · 品牌</text><rect x="259" width="123" height="49" rx="10" fill="#ec744d"/><text x="273" y="20" font-size="9" fill="#fff" fill-opacity=".8">本地生成</text><text x="273" y="37" font-size="12" font-weight="700" fill="#fff">HTML + PDF →</text></g>
+  <desc id="desc">从竞赛清单，到你的下一步。学院专属竞赛日报，支持 HTML 与 PDF。</desc>
+
+  <rect width="1280" height="540" fill="#f7f6f2"/>
+
+  <circle cx="85" cy="94" r="5" fill="#df633d"/>
+  <text x="104" y="100" fill="#242b28" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="600" letter-spacing="2.2">COMPETITOR DAILY</text>
+
+  <g fill="#242b28" font-family="'Noto Sans CJK SC', 'Source Han Sans SC', 'PingFang SC', 'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif">
+    <text x="78" y="244" font-size="76" font-weight="600" letter-spacing="-2">从竞赛清单，</text>
+    <text x="78" y="340" font-size="76" font-weight="600" letter-spacing="-2">到你的下一步。</text>
+    <text x="82" y="406" font-size="18" fill="#717871" letter-spacing=".5">学院专属竞赛日报 · <tspan font-family="Inter, 'Helvetica Neue', Arial, sans-serif" letter-spacing=".7">HTML / PDF</tspan></text>
+  </g>
+
+  <g fill="none" stroke-linejoin="round">
+    <rect x="943" y="143" width="218" height="298" rx="2" transform="rotate(9 1052 292)" stroke="#d8dbd3" stroke-width="1.5"/>
+    <rect x="919" y="131" width="218" height="298" rx="2" transform="rotate(3 1028 280)" fill="#f7f6f2" stroke="#c7cdc4" stroke-width="1.5"/>
+    <g transform="rotate(-5 1010 270)">
+      <rect x="895" y="111" width="230" height="310" rx="2" fill="#fbfaf7" stroke="#aab3a9" stroke-width="1.5"/>
+      <path d="M925 151H977" stroke="#242b28" stroke-width="3"/>
+      <path d="M925 174H1095" stroke="#c9cfc5" stroke-width="1"/>
+      <path d="M925 215H1064M925 231H1095M925 247H1026" stroke="#c1c8bd" stroke-width="2"/>
+      <path d="M925 287H1095M925 303H1064M925 319H1081" stroke="#d4d9cf" stroke-width="2"/>
+      <path d="M925 388H947" stroke="#aab3a9" stroke-width="1"/>
     </g>
-    <text x="65" y="596" font-size="11" letter-spacing="1.8" fill="#788573">BUILT FOR YOUR NEXT OPPORTUNITY.</text>
-    <text x="1206" y="596" text-anchor="end" font-size="11" letter-spacing="1" fill="#788573">MIT · PYTHON 3.11+</text>
   </g>
 </svg>

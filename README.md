@@ -1,26 +1,16 @@
 <!-- competitor-daily:product-home -->
 <p align="center">
-  <img src="docs/hero.svg" alt="Competitor Daily — Your college. Your competitions. Your tokens." width="100%" />
+  <img src="docs/hero.png" alt="Competitor Daily · 从竞赛清单，到你的下一步。" width="100%" />
 </p>
 
 <p align="center">
-  <b>把你学院认可的竞赛清单，变成每天可以行动的机会。</b><br />
-  An open-source agent skill for your college's competition briefing.
+  <a href="https://oliverli1701-eng.github.io/competitor-daily/">项目展示</a> ·
+  <a href="https://github.com/oliverli1701-eng/competitor-daily/releases/tag/v1.0.0">下载 Skill</a> ·
+  <a href="https://oliverli1701-eng.github.io/competitor-daily/docs/demo/index.html">查看日报样例</a>
 </p>
 
 <p align="center">
-  <a href="https://oliverli1701-eng.github.io/competitor-daily/">体验产品</a> ·
-  <a href="#一分钟安装">安装 Skill</a> ·
-  <a href="https://oliverli1701-eng.github.io/competitor-daily/docs/demo/index.html">HTML 示例</a> ·
-  <a href="https://oliverli1701-eng.github.io/competitor-daily/docs/demo/report.pdf">PDF 示例</a> ·
-  <a href="https://oliverli1701-eng.github.io/competitor-daily/archive/">历史日报</a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/license-MIT-203a30?style=flat-square" alt="MIT license" />
-  <img src="https://img.shields.io/badge/python-3.11%2B-203a30?style=flat-square" alt="Python 3.11+" />
-  <img src="https://img.shields.io/badge/output-HTML%20%2B%20PDF-ec744d?style=flat-square" alt="HTML and PDF" />
-  <img src="https://img.shields.io/badge/credentials-your%20own-ec744d?style=flat-square" alt="Use your own credentials" />
+  <sub>开源 Agent Skill · Python 3.11+ · HTML / PDF</sub>
 </p>
 
 ## 为你自己的学院，生成你自己的日报
