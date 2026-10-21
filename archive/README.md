@@ -12,5 +12,6 @@
 
 | 日期 | 周 | 网页 | PDF |
 | --- | --- | --- | --- |
+| 2026-10-21 | Week-43 | [在线阅读](https://oliverli1701-eng.github.io/competitor-daily/2026/10/Week-43/2026-10-21/) · [HTML](../2026/10/Week-43/2026-10-21/index.html) | [下载 PDF](https://oliverli1701-eng.github.io/competitor-daily/2026/10/Week-43/2026-10-21/2026-10-21.pdf) |
 | 2026-10-20 | Week-43 | [在线阅读](https://oliverli1701-eng.github.io/competitor-daily/2026/10/Week-43/2026-10-20/) · [HTML](../2026/10/Week-43/2026-10-20/index.html) | [下载 PDF](https://oliverli1701-eng.github.io/competitor-daily/2026/10/Week-43/2026-10-20/2026-10-20.pdf) |
 | 2026-10-19 | Week-43 | [在线阅读](https://oliverli1701-eng.github.io/competitor-daily/2026/10/Week-43/2026-10-19/) · [HTML](../2026/10/Week-43/2026-10-19/index.html) | [下载 PDF](https://oliverli1701-eng.github.io/competitor-daily/2026/10/Week-43/2026-10-19/2026-10-19.pdf) |
