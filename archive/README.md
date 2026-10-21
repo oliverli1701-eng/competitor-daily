@@ -2,7 +2,7 @@
 
 兰州大学信息科学与工程学院竞赛清单的每日情报归档。
 
-[查看最新日报](https://cuiying42.com/competitor/)
+[查看最新日报](https://cuiying42.com/competitor/lzucs/)
 
 每天北京时间 08:00 发布后自动归档。目录按年 / 月 / ISO 周（周一至周日）/ 日期组织；跨月周分别归入日报所属月份。
 

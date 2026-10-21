@@ -128,7 +128,7 @@ def maintain(root, public, keep_run=None):
 def main():
     parser=argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--root',type=Path,default=Path(__file__).resolve().parent.parent)
-    parser.add_argument('--public-dir',type=Path,default=Path('/var/www/competitor'))
+    parser.add_argument('--public-dir',type=Path,default=Path('/var/www/competitor/lzucs'))
     parser.add_argument('--publish-existing',metavar='YYYY-MM-DD',help='仅上线已验收的现有日报，不调用 API')
     parser.add_argument('--publish-at',metavar='HH:MM',help='预采集完成后等待当日北京时间指定时刻再发布；已过时刻则立即发布')
     args=parser.parse_args();root=args.root.resolve();public=args.public_dir.resolve()

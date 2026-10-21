@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://oliverli1701-eng.github.io/competitor-daily/">项目展示</a> ·
+  <a href="https://cuiying42.com/competitor/">项目展示</a> ·
   <a href="https://github.com/oliverli1701-eng/competitor-daily/releases/tag/v1.0.0">下载 Skill</a> ·
   <a href="https://oliverli1701-eng.github.io/competitor-daily/docs/demo/index.html">查看日报样例</a>
 </p>
@@ -114,6 +114,8 @@ python -m contest_daily --root ./my-daily run
 ## 日报档案继续保留
 
 这个仓库同时保留作者的实际日报，按 `年 / 月 / ISO 周 / 日期` 归档。你可以在 [历史日报入口](https://oliverli1701-eng.github.io/competitor-daily/archive/) 阅读网页和下载 PDF；该实例的运行身份、私有源文件与 API Key 不属于开源发行内容。
+
+[信院最新日报](https://cuiying42.com/competitor/lzucs/) · [项目展示](https://cuiying42.com/competitor/)
 
 ## License
 
