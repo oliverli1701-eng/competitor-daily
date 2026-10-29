@@ -12,6 +12,7 @@
 
 | 日期 | 周 | 网页 | PDF |
 | --- | --- | --- | --- |
+| 2026-10-29 | Week-44 | [在线阅读](https://oliverli1701-eng.github.io/competitor-daily/2026/10/Week-44/2026-10-29/) · [HTML](../2026/10/Week-44/2026-10-29/index.html) | [下载 PDF](https://oliverli1701-eng.github.io/competitor-daily/2026/10/Week-44/2026-10-29/2026-10-29.pdf) |
 | 2026-10-28 | Week-44 | [在线阅读](https://oliverli1701-eng.github.io/competitor-daily/2026/10/Week-44/2026-10-28/) · [HTML](../2026/10/Week-44/2026-10-28/index.html) | [下载 PDF](https://oliverli1701-eng.github.io/competitor-daily/2026/10/Week-44/2026-10-28/2026-10-28.pdf) |
 | 2026-10-27 | Week-44 | [在线阅读](https://oliverli1701-eng.github.io/competitor-daily/2026/10/Week-44/2026-10-27/) · [HTML](../2026/10/Week-44/2026-10-27/index.html) | [下载 PDF](https://oliverli1701-eng.github.io/competitor-daily/2026/10/Week-44/2026-10-27/2026-10-27.pdf) |
 | 2026-10-26 | Week-44 | [在线阅读](https://oliverli1701-eng.github.io/competitor-daily/2026/10/Week-44/2026-10-26/) · [HTML](../2026/10/Week-44/2026-10-26/index.html) | [下载 PDF](https://oliverli1701-eng.github.io/competitor-daily/2026/10/Week-44/2026-10-26/2026-10-26.pdf) |
