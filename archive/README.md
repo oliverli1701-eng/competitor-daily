@@ -8,6 +8,11 @@
 
 历史日报支持在线阅读和 PDF 下载；PDF 也保存在对应日期目录中。
 
+## 2026 年 11 月
+
+| 日期 | 周 | 网页 | PDF |
+| --- | --- | --- | --- |
+| 2026-11-01 | Week-44 | [在线阅读](https://oliverli1701-eng.github.io/competitor-daily/2026/11/Week-44/2026-11-01/) · [HTML](../2026/11/Week-44/2026-11-01/index.html) | [下载 PDF](https://oliverli1701-eng.github.io/competitor-daily/2026/11/Week-44/2026-11-01/2026-11-01.pdf) |
 ## 2026 年 10 月
 
 | 日期 | 周 | 网页 | PDF |
