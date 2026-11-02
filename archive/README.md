@@ -12,6 +12,7 @@
 
 | 日期 | 周 | 网页 | PDF |
 | --- | --- | --- | --- |
+| 2026-11-02 | Week-45 | [在线阅读](https://oliverli1701-eng.github.io/competitor-daily/2026/11/Week-45/2026-11-02/) · [HTML](../2026/11/Week-45/2026-11-02/index.html) | [下载 PDF](https://oliverli1701-eng.github.io/competitor-daily/2026/11/Week-45/2026-11-02/2026-11-02.pdf) |
 | 2026-11-01 | Week-44 | [在线阅读](https://oliverli1701-eng.github.io/competitor-daily/2026/11/Week-44/2026-11-01/) · [HTML](../2026/11/Week-44/2026-11-01/index.html) | [下载 PDF](https://oliverli1701-eng.github.io/competitor-daily/2026/11/Week-44/2026-11-01/2026-11-01.pdf) |
 ## 2026 年 10 月
 
