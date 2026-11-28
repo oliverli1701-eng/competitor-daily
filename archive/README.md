@@ -12,6 +12,7 @@
 
 | 日期 | 周 | 网页 | PDF |
 | --- | --- | --- | --- |
+| 2026-11-28 | Week-48 | [在线阅读](https://oliverli1701-eng.github.io/competitor-daily/2026/11/Week-48/2026-11-28/) · [HTML](../2026/11/Week-48/2026-11-28/index.html) | [下载 PDF](https://oliverli1701-eng.github.io/competitor-daily/2026/11/Week-48/2026-11-28/2026-11-28.pdf) |
 | 2026-11-27 | Week-48 | [在线阅读](https://oliverli1701-eng.github.io/competitor-daily/2026/11/Week-48/2026-11-27/) · [HTML](../2026/11/Week-48/2026-11-27/index.html) | [下载 PDF](https://oliverli1701-eng.github.io/competitor-daily/2026/11/Week-48/2026-11-27/2026-11-27.pdf) |
 | 2026-11-26 | Week-48 | [在线阅读](https://oliverli1701-eng.github.io/competitor-daily/2026/11/Week-48/2026-11-26/) · [HTML](../2026/11/Week-48/2026-11-26/index.html) | [下载 PDF](https://oliverli1701-eng.github.io/competitor-daily/2026/11/Week-48/2026-11-26/2026-11-26.pdf) |
 | 2026-11-25 | Week-48 | [在线阅读](https://oliverli1701-eng.github.io/competitor-daily/2026/11/Week-48/2026-11-25/) · [HTML](../2026/11/Week-48/2026-11-25/index.html) | [下载 PDF](https://oliverli1701-eng.github.io/competitor-daily/2026/11/Week-48/2026-11-25/2026-11-25.pdf) |
